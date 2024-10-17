@@ -1,0 +1,14 @@
+name: EZSplit
+tagline: >-
+  Use multisignature wallet and telegram bot integration to smoothen financial
+  transactions on-chain.
+showcaseUrl: https://ethglobal.com/showcase/ezsplit-4wkpk
+sourceCodeUrl: https://github.com/Mihir1101/EZSplit
+liveDemoUrl: ''
+team:
+  - github: blueh4mster
+    twitter: cherryboss0604
+  - github: Mihir1101
+    twitter: mihir_1101
+  - github: gerceboss
+    twitter: gerceboss_21

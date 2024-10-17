@@ -1,0 +1,16 @@
+name: EZKPoll
+tagline: >-
+  EzkPoll, the most comfortable polling system in Web3. It utilizes MACI to
+  empower ZK on polling and A/B testing.
+showcaseUrl: https://ethglobal.com/showcase/ezkpoll-x37xw
+sourceCodeUrl: https://github.com/abcd5251/EzkPoll
+liveDemoUrl: ''
+team:
+  - github: RayHuang880301
+    twitter: rayhuang0301
+  - github: shinesgogo
+    twitter: <missing>
+  - github: Hugo6991
+    twitter: hugo96k
+  - github: daiwanwei
+    twitter: satoshi_BTCFi

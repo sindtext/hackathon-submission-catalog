@@ -1,0 +1,17 @@
+name: Rebirth of Humanity
+tagline: >-
+  Rebirth of Humanity: A post-apocalyptic text-based strategy game where players
+  guide humanity's survival by making crucial decisions in a world dominated by
+  AI
+showcaseUrl: https://ethglobal.com/showcase/rebirth-of-humanity-xqvgm
+sourceCodeUrl: https://github.com/ethsingapore-roh/roh-game
+liveDemoUrl: ''
+team:
+  - github: jcruzfff
+    twitter: jcruzfff
+  - github: HenrikKv
+    twitter: <missing>
+  - github: zklim
+    twitter: zklim5389
+  - github: ottodevs
+    twitter: aerovalencia

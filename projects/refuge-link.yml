@@ -1,0 +1,16 @@
+name: Refuge Link
+tagline: >-
+  Introducing RefugeLink: A pixelated, Nouns-inspired platform using Flow
+  blockchain and USDC for transparent, direct donations to refugees. Empowering
+  them with digital wallets via email and verifying identity through World ID by
+  Worldcoin.
+showcaseUrl: https://ethglobal.com/showcase/refuge-link-fhpjh
+sourceCodeUrl: https://github.com/Dharanshi/refugee-support-system
+liveDemoUrl: ''
+team:
+  - github: expelee-co
+    twitter: anandhuskumarr
+  - github: tgupta02
+    twitter: Guptatg2004
+  - github: Dharanshi
+    twitter: dharanshi_

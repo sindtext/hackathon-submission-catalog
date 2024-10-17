@@ -1,0 +1,15 @@
+name: Hydro-Fi
+tagline: >-
+  Hydrofi is a blockchain-based, gamified learning platform where users build
+  and manage hydroponic systems, earning rewards through real-world farming
+  challenges and NFT ownership.
+showcaseUrl: https://ethglobal.com/showcase/hydro-fi-mcp72
+sourceCodeUrl: https://github.com/KismetKrystle/HydroFi
+liveDemoUrl: ''
+team:
+  - github: AprilSevenWalker
+    twitter: herdaobali
+  - github: KismetKrystle
+    twitter: kismetkrystle
+  - github: Sianoi
+    twitter: SianoiKimari

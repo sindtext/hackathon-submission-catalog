@@ -1,0 +1,14 @@
+name: Saturn Foundation
+tagline: >-
+  Saturn Foundation enables UBI at a global scale by providing a smart contract
+  vault into which people can deposit money. This money is then distributed to
+  all WorldID verified participants every certain interval and every certain
+  amount.
+showcaseUrl: https://ethglobal.com/showcase/saturn-foundation-4vzhb
+sourceCodeUrl: https://github.com/vanha777/Saturn-Foundation
+liveDemoUrl: ''
+team:
+  - github: Complexia
+    twitter: complexiasc
+  - github: vanha777
+    twitter: vanha1010

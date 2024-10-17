@@ -1,0 +1,16 @@
+name: NTUNouns
+tagline: >-
+  As beginners, we worked on a project related to NFT, using nounsDao and our
+  school's art materials, and deployed contracts on the Flow chain. Finally, we
+  deployed our NFT casting page on the website. On the page, you can connect to
+  the wallet, cast our NFT, and transfer it
+showcaseUrl: https://ethglobal.com/showcase/ntunouns-3q6i0
+sourceCodeUrl: https://github.com/FoeverA0/NTUNouns
+liveDemoUrl: ''
+team:
+  - github: Tsukinai
+    twitter: <missing>
+  - github: kKAqua
+    twitter: kK_4qua
+  - github: FoeverA0
+    twitter: <missing>

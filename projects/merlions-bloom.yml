@@ -1,0 +1,12 @@
+name: Merlion's Bloom
+tagline: >-
+  A super simple, consumer-focused, single-player, coin toss game with novel
+  game mechanics, where a player can win a prize by flipping a coin.
+showcaseUrl: https://ethglobal.com/showcase/merlions-bloom-niy74
+sourceCodeUrl: https://github.com/DenhamPreen/merlions-bloom
+liveDemoUrl: ''
+team:
+  - github: SvenMuller95
+    twitter: SvenMuller95
+  - github: denhampreen
+    twitter: denhampreen

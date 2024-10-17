@@ -1,0 +1,12 @@
+name: ProjectName  # required
+tagline: Project Tagline # optional
+showcaseUrl: https://website.domain/project/path  # required
+sourceCodeUrl: https://github.com/userOrOrg/projectName # required
+liveDemoUrl: https://demo.site/  # optional
+social: # optional
+  x: handle
+  github: name
+team: # optional
+  -
+    name: Member 1
+    github: username1

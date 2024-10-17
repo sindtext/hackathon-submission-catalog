@@ -1,0 +1,15 @@
+name: Omnichain zkERC20
+tagline: >-
+  Instantly grant any ERC-20 the same privacy guarantees as Monero and ZCash.
+  Bridge across any EVM-compatible chain, without sharing the receiver, token,
+  or amount!
+showcaseUrl: https://ethglobal.com/showcase/omnichain-zkerc20-i6koo
+sourceCodeUrl: https://github.com/Arinerron/zkerc20-mirror/
+liveDemoUrl: ''
+team:
+  - github: arinerron
+    twitter: arinerron
+  - github: brownie-in-motion
+    twitter: <missing>
+  - github: shari09
+    twitter: <missing>

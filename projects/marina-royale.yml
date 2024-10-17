@@ -1,0 +1,14 @@
+name: Marina Royale
+tagline: >-
+  Lottery using Uniswap V4 hooks with built-in referrals. Mobile-optimized
+  through Telegram with gas-free experience on Base.
+showcaseUrl: https://ethglobal.com/showcase/marina-royale-ykabv
+sourceCodeUrl: https://github.com/Sands-Royale/contracts
+liveDemoUrl: ''
+team:
+  - github: thomas779
+    twitter: thomphreys
+  - github: MrBB77
+    twitter: bbence77
+  - github: lajosdeme
+    twitter: lajos_deme

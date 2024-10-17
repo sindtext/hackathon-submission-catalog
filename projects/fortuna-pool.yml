@@ -1,0 +1,20 @@
+name: FortunaPool
+tagline: >-
+  A decentralized stablecoin application utilizing Worldcoin for identity
+  verification and Flow blockchain for verifiable random number generation,
+  allowing users to securely deposit USDC, invest in DeFi opportunities, and
+  receive fair and transparent rewards.
+showcaseUrl: https://ethglobal.com/showcase/fortunapool-eq80j
+sourceCodeUrl: https://github.com/lanigon/ETH_Global
+liveDemoUrl: ''
+team:
+  - github: lanigon
+    twitter: lossanien
+  - github: pilotma517
+    twitter: Mashuai521
+  - github: rapstar1
+    twitter: toplevel111
+  - github: Guesstrain
+    twitter: <missing>
+  - github: Charlie2002
+    twitter: <missing>

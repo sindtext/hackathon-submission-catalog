@@ -1,0 +1,15 @@
+{
+  "name": "hackathon-submission-catalog",
+  "version": "0.1.0",
+  "scripts": {
+    "generate": "node scripts/js/generate.mjs"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21"
+  }
+}

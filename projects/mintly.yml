@@ -1,0 +1,14 @@
+name: Mintly
+tagline: >-
+  A web3 rewards platform combining the best of tranditional credit card loyalty
+  schemes and the unique benefits of web3.
+showcaseUrl: https://ethglobal.com/showcase/mintly-stcxn
+sourceCodeUrl: https://github.com/artemis283/webs3
+liveDemoUrl: ''
+team:
+  - github: artemis283
+    twitter: <missing>
+  - github: demitycho
+    twitter: <missing>
+  - github: o-wb
+    twitter: olliewebster

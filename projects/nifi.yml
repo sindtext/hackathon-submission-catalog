@@ -1,0 +1,12 @@
+name: Nifi
+tagline: >-
+  Nifi is a First Ever Built Web3-based captive portal for secure WiFi access,
+  using token and NFT authentication on the blockchain. It seamlessly authorizes
+  users by verifying digital assets for fair usage. Secure, decentralized, and
+  user-friendly!
+showcaseUrl: https://ethglobal.com/showcase/nifi-o3uf2
+sourceCodeUrl: https://github.com/mbcse/nifi
+liveDemoUrl: ''
+team:
+  - github: mbcse
+    twitter: mbcse50

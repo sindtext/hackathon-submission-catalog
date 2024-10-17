@@ -1,0 +1,16 @@
+name: ChopChop
+tagline: Cross-chain spendings spliting app (like splitwise but for web3)
+showcaseUrl: https://ethglobal.com/showcase/chopchop-6dkpc
+sourceCodeUrl: https://github.com/Web3Homeless/ChopChopFrontend
+liveDemoUrl: ''
+team:
+  - github: MadL1me
+    twitter: <missing>
+  - github: Neo-Gar
+    twitter: NeoGar_real
+  - github: asimaranov
+    twitter: ZkNoid
+  - github: alexandershcherbatyuk
+    twitter: AlexScherbatyuk
+  - github: aii23
+    twitter: IvlevCrypto

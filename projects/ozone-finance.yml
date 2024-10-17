@@ -1,0 +1,12 @@
+name: Ozone Finance
+tagline: >-
+  Ozone Protocol: A decentralized aggregation layer for cross-chain liquidity
+  using FROST. Features AI-enhanced DeFi experiences and a complete darkpool
+  based on FHE, TEE, and SGX. Trustless, private, and limitless blockchain
+  interoperability for the future of DeFi
+showcaseUrl: https://ethglobal.com/showcase/ozone-finance-ng3r6
+sourceCodeUrl: https://github.com/jayendramadaram/ozone-front-end
+liveDemoUrl: ''
+team:
+  - github: jayendramadaram
+    twitter: 0xkingpanther

@@ -1,0 +1,13 @@
+name: JITLiq Network
+tagline: >-
+  JIT Liquidity Network—a scalable liquidity layer powered by an actively
+  validated solver network, making fast and efficient bridging across multiple
+  chains possible
+showcaseUrl: https://ethglobal.com/showcase/jitliq-network-m2cw1
+sourceCodeUrl: https://github.com/JITLiq/contracts-core
+liveDemoUrl: ''
+team:
+  - github: Pradeep-selva
+    twitter: daestair_
+  - github: rahul0tripathi
+    twitter: tripathi_rahul_

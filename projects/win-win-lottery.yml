@@ -1,0 +1,13 @@
+name: WinWin-Lottery
+tagline: >-
+  WinWin-Lottery is a no-loss lottery platform where users stake their tokens to
+  earn yield over time. The yield generated from staked tokens is pooled and
+  distributed as rewards without the risk of losing the initial deposit.  
+showcaseUrl: https://ethglobal.com/showcase/winwin-lottery-sznnv
+sourceCodeUrl: https://github.com/ayushsingh82/WinWin-Lottery
+liveDemoUrl: ''
+team:
+  - github: ayushsingh82
+    twitter: eth_ay32
+  - github: ayush4003
+    twitter: <missing>

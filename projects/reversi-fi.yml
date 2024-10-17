@@ -1,0 +1,19 @@
+name: ReversiFi
+tagline: >-
+  ReversiFi is a non-custodial wallet software development kit that enables
+  businesses to effortlessly integrate secure crypto payment solutions into
+  their marketplace apps with minimal coding
+showcaseUrl: https://ethglobal.com/showcase/reversifi-ufprn
+sourceCodeUrl: https://github.com/ReversiFi
+liveDemoUrl: ''
+team:
+  - github: 0xYudhishthra
+    twitter: 0xYudhishthra
+  - github: makluganteng
+    twitter: 0xvincent_eth
+  - github: brianjk17
+    twitter: 0xbjk
+  - github: cheongyeechian
+    twitter: ycchian04
+  - github: 0xGavinOwen
+    twitter: 0xgavinowen

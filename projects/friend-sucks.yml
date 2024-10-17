@@ -1,0 +1,16 @@
+name: Friend.Sucks
+tagline: >-
+  Friend.Sucks lets you "suck" your Web2 friends into the Web3 world! Tip them
+  in ETH using their social media username, and they’ll be incentivized to
+  create a crypto wallet to claim their tips. A fun, seamless way to introduce
+  Web2 users to Web3 perks!
+showcaseUrl: https://ethglobal.com/showcase/friend-sucks-yguav
+sourceCodeUrl: https://github.com/lllapland/eth-global-2024
+liveDemoUrl: ''
+team:
+  - github: baqixiaohei
+    twitter: oscarjjjjj
+  - github: lllapland
+    twitter: <missing>
+  - github: williamh-zx
+    twitter: 0xWilliamHong

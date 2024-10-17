@@ -1,0 +1,11 @@
+name: Trebek!
+tagline: >-
+  TREBEK! is reverse Jeopardy! with an AI twist. Instead of guessing the answer,
+  players are given the answer and must create a prompt that generates that
+  answer exactly, word for word.
+showcaseUrl: https://ethglobal.com/showcase/trebek-97qcj
+sourceCodeUrl: https://github.com/34r7h/trebek
+liveDemoUrl: ''
+team:
+  - github: 34r7h
+    twitter: develop_an_app

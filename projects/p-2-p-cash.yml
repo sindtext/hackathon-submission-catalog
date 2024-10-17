@@ -1,0 +1,13 @@
+name: P2P Cash
+tagline: >-
+  QuickPay is a crypto-to-fiat solution for expats and tourists, enabling smooth
+  payments with local merchants. Built on Flow blockchain, it offers low fees,
+  requires no local bank account, and integrates easily with businesses.
+showcaseUrl: https://ethglobal.com/showcase/p2p-cash-1jspx
+sourceCodeUrl: https://github.com/UniqSoftTech/p2p-cash
+liveDemoUrl: ''
+team:
+  - github: ganjiguur
+    twitter: jiguur_n
+  - github: marko-11tech
+    twitter: <missing>

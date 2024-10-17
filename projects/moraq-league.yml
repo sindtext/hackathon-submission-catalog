@@ -1,0 +1,14 @@
+name: Moraq League
+tagline: >-
+  Moraq League is a fun crypto price prediction tournament! Predict token
+  prices, battle through harder rounds, and stake tokens for big rewards. Exit
+  early with winnings or risk it all for the jackpot. Compete, climb the
+  leaderboard, and win like anything.
+showcaseUrl: https://ethglobal.com/showcase/moraq-league-e14rc
+sourceCodeUrl: https://github.com/sushmitsarmah/eth_singapore_24
+liveDemoUrl: ''
+team:
+  - github: HarshalBhangale
+    twitter: imbuddyharshal
+  - github: sushmitsarmah
+    twitter: waterreptile19

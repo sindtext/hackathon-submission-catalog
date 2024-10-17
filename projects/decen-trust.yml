@@ -1,0 +1,18 @@
+name: DecenTRUST
+tagline: >-
+  DecenTrust is a decentralized hiring platform powered by Web3. It enables
+  companies to find verified talent through merit-based assessments and rewards
+  applicants with on-chain proof of success, ensuring transparency, fairness,
+  and trust for both employers and employees.
+showcaseUrl: https://ethglobal.com/showcase/decentrust-vwp81
+sourceCodeUrl: https://github.com/eesuhn/decentrust
+liveDemoUrl: ''
+team:
+  - github: r-bytes
+    twitter: ray_pingwing
+  - github: optimus789
+    twitter: VinayS789
+  - github: munirahzahari
+    twitter: <missing>
+  - github: eesuhn
+    twitter: eesuhn

@@ -1,0 +1,14 @@
+name: Mini Safe
+tagline: >-
+  Mini Safe is your friendly team multisig wallet integrated on Telegram for
+  simplifying P2P payments.
+showcaseUrl: https://ethglobal.com/showcase/mini-safe-mztrv
+sourceCodeUrl: https://github.com/EthGlobalSing/mini-safe-core
+liveDemoUrl: ''
+team:
+  - github: sdaav
+    twitter: _SDAV
+  - github: mathisrgt
+    twitter: xmsrgt
+  - github: pybast
+    twitter: pybasteth

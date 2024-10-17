@@ -1,0 +1,14 @@
+name: DarkLegacyShop
+tagline: >-
+  An NFC-powered exploration game where players trade resources, shape the
+  world, and co-create a dynamic, community-driven virtual experience.
+showcaseUrl: https://ethglobal.com/showcase/darklegacyshop-rs0k0
+sourceCodeUrl: https://github.com/yisiliu/darklegacyshop
+liveDemoUrl: ''
+team:
+  - github: timothyshen
+    twitter: timtimtim_eth
+  - github: haoranyu
+    twitter: haoranyu
+  - github: yisiliu
+    twitter: TheYisiLiu

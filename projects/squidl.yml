@@ -1,0 +1,20 @@
+name: SQUIDL
+tagline: >-
+  Squidl is a privacy-focused platform that makes managing payments simple and
+  secure. With private static payment links that also work as ENS addresses, you
+  can easily accept crypto or credit card payments while keeping everything
+  untraceable.
+showcaseUrl: https://ethglobal.com/showcase/squidl-psquk
+sourceCodeUrl: https://github.com/engowl/squidl
+liveDemoUrl: ''
+team:
+  - github: kelvinkn17
+    twitter: KelvinAdithya
+  - github: ricksentnt
+    twitter: ricktntx
+  - github: Dicky-27
+    twitter: RanggaBuwono
+  - github: tfarhan00
+    twitter: kebahan_
+  - github: heri16
+    twitter: heri16

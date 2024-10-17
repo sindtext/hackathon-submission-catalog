@@ -1,0 +1,12 @@
+name: WNS
+tagline: >-
+  Chain-abstracted, 3-word ENS alternative to any Web3 address for higher
+  memorability, accuracy and non-ambiquity.
+showcaseUrl: https://ethglobal.com/showcase/wns-uvdv4
+sourceCodeUrl: https://github.com/Dimple-Kanwar/w3w/
+liveDemoUrl: ''
+team:
+  - github: Abhijat-s
+    twitter: Abhijat_sinha
+  - github: Dimple-Kanwar
+    twitter: s15105213

@@ -1,0 +1,11 @@
+name: Perpetua
+tagline: >-
+  Perpetua is a decentralized perpetual futures trading platform that enables
+  users to trade crypto assets with leverage, without expiration dates, Perpetua
+  ensures low fees, high speed, and full transparency. Trade anytime, anywhere. 
+showcaseUrl: https://ethglobal.com/showcase/perpetua-8jbqc
+sourceCodeUrl: https://github.com/thedudeontitan/Perpetua
+liveDemoUrl: ''
+team:
+  - github: thedudeontitan
+    twitter: ankitkokane

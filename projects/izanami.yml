@@ -1,0 +1,15 @@
+name: izanami
+tagline: >-
+  izanami is an AI-powered social reputation tool that evaluates and analyzes
+  blockchain addresses, providing users with comprehensive insights based on AI
+  and community-driven reviews.
+showcaseUrl: https://ethglobal.com/showcase/izanami-6uk7u
+sourceCodeUrl: https://github.com/hollow-leaf/izanami/
+liveDemoUrl: ''
+team:
+  - github: kidneyweakx
+    twitter: kidneyweakx
+  - github: jarekkkkk
+    twitter: 0xJarekkkkk
+  - github: LinXJ1204
+    twitter: ZZzlin2022

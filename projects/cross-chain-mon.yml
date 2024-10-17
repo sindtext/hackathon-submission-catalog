@@ -1,0 +1,11 @@
+name: Cross-Chain Mon
+tagline: >-
+  This is a Pokemon game spanned across multiple EVM chains. Players have to
+  bridge across chains via Autonomous World contracts to collect all pokemon
+  (Cross-Chain-Mons)
+showcaseUrl: https://ethglobal.com/showcase/cross-chain-mon-sbf66
+sourceCodeUrl: https://github.com/0xhatsume/xchainmon
+liveDemoUrl: ''
+team:
+  - github: 0xhatsume
+    twitter: 0xhatsume

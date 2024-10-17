@@ -1,0 +1,14 @@
+name: Attornato
+tagline: >-
+  Marketplace for tokenized boats. List, tokenize, request attestation, send
+  binding orders and buy boats.
+showcaseUrl: https://ethglobal.com/showcase/attornato-2nku7
+sourceCodeUrl: https://github.com/Blankeeir/ethglobalsingapore
+liveDemoUrl: ''
+team:
+  - github: Blankeeir
+    twitter: Emma_xusiyi
+  - github: paweljanicki
+    twitter: 0xPawel
+  - github: aloksahay
+    twitter: sahay_alok

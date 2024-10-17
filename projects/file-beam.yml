@@ -1,0 +1,16 @@
+name: FileBeam
+tagline: FileBeam beams petabytes of multichain dApp data into the open data economy!
+showcaseUrl: https://ethglobal.com/showcase/filebeam-4g61n
+sourceCodeUrl: https://github.com/rk-rishikesh/FILBeam
+liveDemoUrl: ''
+team:
+  - github: trruckerfling
+    twitter: truckerfling
+  - github: rk-rishikesh
+    twitter: 0xrishikesh
+  - github: LongfeiWan9
+    twitter: LongfeiW
+  - github: xBalbinus
+    twitter: XianganH
+  - github: snissn
+    twitter: mseiler1
