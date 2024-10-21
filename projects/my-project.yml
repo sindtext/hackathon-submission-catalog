@@ -1,0 +1,12 @@
+name: ETHGambit  # required
+tagline: A superior, decentralized alternative to online chess betting. # optional
+showcaseUrl: https://ethglobal.com/showcase/ethgambit-y8v9e  # required
+sourceCodeUrl: https://github.com/wolfiesell/ETHGambit # required
+liveDemoUrl:  # optional
+social: # optional
+  x: 
+  github: wolfiesell
+team: # optional
+  -
+    name: Wolfgang Sell
+    github: wolfiesell
