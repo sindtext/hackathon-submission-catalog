@@ -1,0 +1,14 @@
+name: Fuse
+tagline: >-
+  Infinite crafting game using GenAI and awarding NFTs, this game involves
+  combining concepts and exploring what they might create 
+showcaseUrl: https://ethglobal.com/showcase/fuse-5wsiz
+sourceCodeUrl: https://github.com/DiegoJRR/fuse
+liveDemoUrl: ''
+team:
+  - github: Efrainq07
+    twitter: nanquiedo
+  - github: DiegoJRR
+    twitter: diego_ramirez42
+  - github: nostalgic-math-student
+    twitter: nostalgicmathst

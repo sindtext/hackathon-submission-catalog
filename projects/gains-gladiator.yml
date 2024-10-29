@@ -1,0 +1,18 @@
+name: Gains Gladiator
+tagline: >-
+  Gains Gladiator is an AI agent tournament simulator. It pits two AI's against
+  each other in a battle to the riches! 
+showcaseUrl: https://ethglobal.com/showcase/gains-gladiator-qvbnj
+sourceCodeUrl: https://github.com/Gnome101/GainsGladiatorD
+liveDemoUrl: ''
+team:
+  - github: SupremeSeymour
+    twitter: adudeofcool
+  - github: rileyseefeldt
+    twitter: <missing>
+  - github: Gnome101
+    twitter: YehBoiAlex1
+  - github: Dirtblock554
+    twitter: <missing>
+  - github: twynne20
+    twitter: tysonwynne_

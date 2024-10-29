@@ -1,0 +1,18 @@
+name: AVAZON
+tagline: >-
+  Avazon creates AI agents using avatars and manages them with avatar ip assets
+  1.Users create avatars using prompts. 2.These avatars become AI agents,
+  generating content like videos, music, and interacting in real-time. 3.Users
+  can share and manage avatars and content via IP asset
+showcaseUrl: https://ethglobal.com/showcase/avazon-ed8hi
+sourceCodeUrl: https://github.com/avazon-eth
+liveDemoUrl: ''
+team:
+  - github: Jadenchoi2k
+    twitter: <missing>
+  - github: JadenChoi2k
+    twitter: <missing>
+  - github: songhh777
+    twitter: <missing>
+  - github: Lee-Hyeong-Jin
+    twitter: ihyeongjin79887258

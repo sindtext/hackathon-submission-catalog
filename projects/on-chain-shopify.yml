@@ -1,0 +1,12 @@
+name: onChain Shopify
+tagline: >-
+  Onchain Shopify platform; allows users to create online stores on the
+  blockchain.
+showcaseUrl: https://ethglobal.com/showcase/onchain-shopify-hmtu3
+sourceCodeUrl: https://github.com/PhatStraw/eth-sf-shopify
+liveDemoUrl: ''
+team:
+  - github: PhatStraw
+    twitter: phatstraws
+  - github: Fffilps
+    twitter: Jmariwyatt

@@ -1,10 +1,10 @@
-name: Ether Go  # required
-tagline: Pokemon Go but with actual animals to crowdsource the $2.1B problem of wildlife tracking!
-
- # optional
-showcaseUrl: https://ethglobal.com/showcase/ether-go-9y3ry  # required
-sourceCodeUrl: https://github.com/WilliamUW/ETHGlobal-SF # required
-liveDemoUrl: https://ethergo.vercel.app/  # optional
+name: Ether Go
+tagline: >-
+  Pokemon Go but with actual animals to crowdsource the $2.1B problem of
+  wildlife tracking!
+showcaseUrl: https://ethglobal.com/showcase/ether-go-9y3ry
+sourceCodeUrl: https://github.com/WilliamUW/ETHGlobal-SF
+liveDemoUrl: ''
 social: # optional
   x: heywilliamwang
   github: williamuw
@@ -12,3 +12,4 @@ team: # optional
   -
     name: William Wang
     github: williammuw
+    twitter: heywilliamwang

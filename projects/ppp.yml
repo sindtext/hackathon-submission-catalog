@@ -1,0 +1,10 @@
+name: PPP
+tagline: >-
+  An app that allows users to set up and manage personal pension funds using any
+  ERC-20 token
+showcaseUrl: https://ethglobal.com/showcase/ppp-zzjn9
+sourceCodeUrl: https://github.com/fedeloterstein/ethglobal-sf
+liveDemoUrl: ''
+team:
+  - github: fedeloterstein
+    twitter: fedev_

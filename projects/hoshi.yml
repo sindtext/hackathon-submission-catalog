@@ -1,0 +1,16 @@
+name: hoshi
+tagline: >-
+  A web3 social media app that gives automatic IP rights to content creation
+  through NFTs, making use of AI to identify derivative work.
+showcaseUrl: https://ethglobal.com/showcase/hoshi-xzzxj
+sourceCodeUrl: https://github.com/limrik/hoshi
+liveDemoUrl: ''
+team:
+  - github: limrik
+    twitter: <missing>
+  - github: coreaan
+    twitter: <missing>
+  - github: nrehiew
+    twitter: <missing>
+  - github: gregtanym
+    twitter: <missing>

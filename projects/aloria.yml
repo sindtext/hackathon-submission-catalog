@@ -1,0 +1,12 @@
+name: Aloria
+tagline: >-
+  A decentralized omni-powerful AI personal assistant that can complete all
+  kinds of tasks by operating directly on web browser
+showcaseUrl: https://ethglobal.com/showcase/aloria-gfwo5
+sourceCodeUrl: https://github.com/tkeith/aloria
+liveDemoUrl: ''
+team:
+  - github: cozyss
+    twitter: <missing>
+  - github: tkeith
+    twitter: tsrkeith

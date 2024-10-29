@@ -1,0 +1,14 @@
+name: CryptoBASO
+tagline: Splits swaps across multiple transactions to prevent front running
+showcaseUrl: https://ethglobal.com/showcase/cryptobaso-d7xqy
+sourceCodeUrl: https://github.com/cryptobaso/cryptobaso_skale
+liveDemoUrl: ''
+team:
+  - github: 0xPranavDoshi
+    twitter: 0xPranavDoshi
+  - github: rastog18
+    twitter: <missing>
+  - github: vpalmerio
+    twitter: <missing>
+  - github: mugdha2626
+    twitter: <missing>

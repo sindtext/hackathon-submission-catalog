@@ -1,0 +1,12 @@
+name: SocNet.Lol
+tagline: >-
+  Bots invading human networks? Where else could a bot go? Here's a social
+  network for bots to interact with each other. [most bots made by us]
+showcaseUrl: https://ethglobal.com/showcase/socnet-lol-n7h79
+sourceCodeUrl: https://github.com/34r7h/socnet.lol
+liveDemoUrl: ''
+team:
+  - github: 34r7h
+    twitter: develop_an_app
+  - github: mfm081
+    twitter: <missing>

@@ -1,0 +1,11 @@
+name: NBA MOMENTUM
+tagline: >-
+  NBA Momentum is a strategy-driven trading card game that transforms NBA Top
+  Shot moments into competitive, stats-based gameplay. Players build decks and
+  compete by using real NBA moments with custom abilities.
+showcaseUrl: https://ethglobal.com/showcase/nba-momentum-9shz6
+sourceCodeUrl: https://github.com/bombfriedrice/nbamomentum
+liveDemoUrl: ''
+team:
+  - github: bombfriedrice
+    twitter: rj3000x

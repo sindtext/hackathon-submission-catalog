@@ -1,0 +1,14 @@
+name: Lumina
+tagline: >-
+  Lumina is an AI-powered mental health app combining therapy, journaling, &
+  dreamsculpting. Log life events, explore dream visuals, & interact with 24/7
+  AI therapists. Earn rewards from daily prompts. Share encrypted data to
+  connect with others on similar journeys.
+showcaseUrl: https://ethglobal.com/showcase/lumina-01crm
+sourceCodeUrl: https://github.com/Provoo/globalETH2024-lumina
+liveDemoUrl: ''
+team:
+  - github: Provoo
+    twitter: camAndrade23
+  - github: lunarbits222
+    twitter: cyberoctober

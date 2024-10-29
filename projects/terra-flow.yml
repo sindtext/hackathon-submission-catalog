@@ -1,0 +1,20 @@
+name: TerraFlow
+tagline: >-
+  Terraflow is a DeFi AgriTech platform that tokenizes farmland and enables
+  consumers to stake funds to support local farmers. Using blockchain, smart
+  contracts, and NFTs, users can invest in fractional ownership, receive
+  rewards, and help farmers access sustainable funding.
+showcaseUrl: https://ethglobal.com/showcase/terraflow-1gvun
+sourceCodeUrl: https://github.com/SuhaanSyed/TerraFlow
+liveDemoUrl: ''
+team:
+  - github: AyaanLakhani
+    twitter: <missing>
+  - github: rdesai787
+    twitter: <missing>
+  - github: nimrasyed
+    twitter: <missing>
+  - github: LegendaryPenguin
+    twitter: <missing>
+  - github: SuhaanSyed
+    twitter: <missing>

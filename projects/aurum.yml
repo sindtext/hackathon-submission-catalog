@@ -1,0 +1,16 @@
+name: Aurum
+tagline: >-
+  The app that connects them all... Aurum is the payment experience that
+  connects all worlds.
+showcaseUrl: https://ethglobal.com/showcase/aurum-7ry36
+sourceCodeUrl: https://github.com/JulioMCruz/Aurum
+liveDemoUrl: ''
+team:
+  - github: JulioMCruz
+    twitter: JulioMCruz
+  - github: williamh-zx
+    twitter: 0xWilliamHong
+  - github: 333polaris
+    twitter: 333polaris
+  - github: sandrotbilisi
+    twitter: atsetsoffc

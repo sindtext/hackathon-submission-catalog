@@ -1,0 +1,12 @@
+name: FanFuel
+tagline: >-
+  Grow your savings while supporting student-athletes with crypto staking. Fans
+  earn rewards, athletes get funded, and teams thrive. 
+showcaseUrl: https://ethglobal.com/showcase/fanfuel-3ds1u
+sourceCodeUrl: https://github.com/Lyons800/fanfuel
+liveDemoUrl: ''
+team:
+  - github: miyahzhang
+    twitter: miya_always
+  - github: lyons800
+    twitter: Lyons_800

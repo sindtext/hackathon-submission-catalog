@@ -1,0 +1,18 @@
+name: Dream Green
+tagline: >-
+  A blockchain-based payment solution for the cannabis industry. We eliminate
+  cash-related risks and complexities for dispensaries by enabling secure crypto
+  and fiat transactions, all settled in USDC. Simplifying operations, ensuring
+  compliance, and improving customer experience.
+showcaseUrl: https://ethglobal.com/showcase/dream-green-hk30m
+sourceCodeUrl: 'https://github.com/j-ble/proof_of_green '
+liveDemoUrl: ''
+team:
+  - github: johng2023
+    twitter: <missing>
+  - github: thedhruvgupta
+    twitter: dhgup
+  - github: j-ble
+    twitter: <missing>
+  - github: NathanYee2005
+    twitter: <missing>

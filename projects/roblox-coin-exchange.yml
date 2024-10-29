@@ -1,0 +1,12 @@
+name: Roblox Coin Exchange
+tagline: >-
+  Enabling Roblox's 300 million (MAUs) to create, buy, and sell meme coins using
+  bonding curves.
+showcaseUrl: https://ethglobal.com/showcase/roblox-coin-exchange-833sq
+sourceCodeUrl: https://github.com/iganbold/roblox-memecoin
+liveDemoUrl: ''
+team:
+  - github: brain-xiang
+    twitter: brain_xiang
+  - github: iganbold
+    twitter: jackjack_eth

@@ -1,0 +1,14 @@
+name: TerraTracker
+tagline: >-
+  TerraTracker: Harnessing blockchain and AI for hyper-local disaster
+  predictions. Empower communities with real-time insights, engage users through
+  staking rewards, and support relief efforts with a portion of profits.
+  Predict. Prepare. Protect.
+showcaseUrl: https://ethglobal.com/showcase/terratracker-7jne7
+sourceCodeUrl: https://github.com/jackiesafari/Terratracker3
+liveDemoUrl: ''
+team:
+  - github: msourial
+    twitter: amirsorial
+  - github: jackiesafari
+    twitter: jackiesafari

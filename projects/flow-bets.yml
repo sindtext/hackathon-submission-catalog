@@ -1,0 +1,16 @@
+name: FlowBets
+tagline: >-
+  A transparent, crowdsourced sports betting platform on Flow's network
+  utilizing smart contracts
+showcaseUrl: https://ethglobal.com/showcase/flowbets-u48sh
+sourceCodeUrl: https://github.com/shrithan1/betflow
+liveDemoUrl: ''
+team:
+  - github: eztramble123
+    twitter: eztramble
+  - github: NickQasawadish
+    twitter: NQasawadish
+  - github: shrithan1
+    twitter: shrithan_s
+  - github: tapp2004
+    twitter: 10a_app

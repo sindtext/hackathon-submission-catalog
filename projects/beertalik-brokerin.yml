@@ -1,0 +1,14 @@
+name: Beertalik Brokerin
+tagline: >-
+  Combination of memecoin trading and beer! Tool for event organisers to let
+  customers trade beer. The more users purchase beer, the higher the prices
+  rise. Beer purchases are stored on NFC-enabled wristband, making it easy to
+  exchange digital tokens for actual beverages.
+showcaseUrl: https://ethglobal.com/showcase/beertalik-brokerin-57rkv
+sourceCodeUrl: https://github.com/pauldev20/beertalik-brokerin
+liveDemoUrl: ''
+team:
+  - github: bluegales
+    twitter: bluegales
+  - github: pauldev20
+    twitter: paul__dev

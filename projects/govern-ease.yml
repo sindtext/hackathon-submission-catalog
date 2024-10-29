@@ -1,0 +1,12 @@
+name: GovernEase
+tagline: >-
+  GovernEase is a cross-chain DAO tooling platform that simplifies DAO creation.
+  It enables users to configure governance, manage tokens, and select voting
+  methods through a seamless interface, allowing quick and efficient setup
+  across multiple blockchains.
+showcaseUrl: https://ethglobal.com/showcase/governease-17pde
+sourceCodeUrl: https://github.com/Sohamkayal4103/ETHSF
+liveDemoUrl: ''
+team:
+  - github: Sohamkayal4103
+    twitter: kayal_soham

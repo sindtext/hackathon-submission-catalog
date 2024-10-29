@@ -1,0 +1,20 @@
+name: BAM Protocol
+tagline: >-
+  The BAM Protocol defines a new primitive for incentivizing provable off-chain
+  actions on chain. In addition we have built the BAM portal v0.1, a
+  competitive, scam resistant escrow market for Twitter KOL’s powered by our new
+  primitive.
+showcaseUrl: https://ethglobal.com/showcase/bam-protocol-mg10y
+sourceCodeUrl: https://github.com/githubotoro/BAM
+liveDemoUrl: ''
+team:
+  - github: ShivaanshK
+    twitter: ShivaanshKapoor
+  - github: githubotoro
+    twitter: yupuday
+  - github: shaunakk
+    twitter: <missing>
+  - github: Anthonypella
+    twitter: <missing>
+  - github: Gajesh2007
+    twitter: gajesh

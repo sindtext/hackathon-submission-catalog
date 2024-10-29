@@ -1,0 +1,11 @@
+name: AI Fans
+tagline: >-
+  An AI x Crypto OnlyFans. Uses Generative AI to create text responses and
+  Images for the AI avatars, and faciiltates onchain transactions done by users
+  and agents.
+showcaseUrl: https://ethglobal.com/showcase/ai-fans-k8x9r
+sourceCodeUrl: https://github.com/RevanthGundala/AIFans
+liveDemoUrl: ''
+team:
+  - github: RevanthGundala
+    twitter: rgundal2

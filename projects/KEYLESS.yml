@@ -1,5 +1,18 @@
-name: KeylessAI # required
-showcaseUrl:  https://ethglobal.com/showcase/keyless-znz6x
-sourceCodeUrl: https://github.com/CITGuru/keyless-ai   
-
-  
+name: Keyless
+tagline: >-
+  Keyless AI is an AI-powered assistant that simplifies blockchain interactions.
+  Users can perform token swaps, staking, and transfers using natural language.
+  It leverages multi-agent systems to optimize transactions securely,
+  integrating with smart accounts for seamless execution.
+showcaseUrl: https://ethglobal.com/showcase/keyless-znz6x
+sourceCodeUrl: https://github.com/CITGuru/keyless-ai
+liveDemoUrl: ''
+team:
+  - github: citguru
+    twitter: OyetokeT
+  - github: michaelwang2018
+    twitter: <missing>
+  - github: karansalot
+    twitter: karan_salot
+  - github: juhikhare2
+    twitter: juhi_khare11

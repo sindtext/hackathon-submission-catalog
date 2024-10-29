@@ -1,0 +1,8 @@
+name: SmolKOL
+tagline: A transparent LLM-powered attention marketplace for Twitter.
+showcaseUrl: https://ethglobal.com/showcase/smolkol-v4sy5
+sourceCodeUrl: https://github.com/stanleyjzheng/smolkol
+liveDemoUrl: ''
+team:
+  - github: stanleyjzheng
+    twitter: sudolabel

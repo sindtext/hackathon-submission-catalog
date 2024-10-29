@@ -1,0 +1,11 @@
+name: Qiao
+tagline: >-
+  Introducing 桥 Protocol 🌉 — an innovative layer that offloads computation to
+  off-chain resources, enables cross-chain delegations, and offers a universal
+  resolver for smart contracts to ensure seamless interoperability.
+showcaseUrl: https://ethglobal.com/showcase/qiao-6o7h9
+sourceCodeUrl: https://github.com/qiaoprotocol/monorepo
+liveDemoUrl: ''
+team:
+  - github: mikelxc
+    twitter: mikelxc

@@ -1,0 +1,19 @@
+name: Baldr
+tagline: >-
+  Baldr is an open source gaming escrow platform which aims to resolve disputes
+  and provide clear resolution for all users. With trust and transparency using
+  sign protocol upon user attestations.
+showcaseUrl: https://ethglobal.com/showcase/baldr-wyv9f
+sourceCodeUrl: https://github.com/SwineCoder101/baldr
+liveDemoUrl: ''
+team:
+  - github: smarthug
+    twitter: theSmarthug
+  - github: c0np4nn4
+    twitter: <missing>
+  - github: lee-clipse
+    twitter: <missing>
+  - github: darganad
+    twitter: AdityaDargan
+  - github: SwineCoder101
+    twitter: SwineCoder

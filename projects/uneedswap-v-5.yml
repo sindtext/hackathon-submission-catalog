@@ -1,0 +1,10 @@
+name: Uneedswap V5
+tagline: >-
+  Multi-protocol Liquidity Pool - hosts multiple protocols and minimizes asset
+  transfers
+showcaseUrl: https://ethglobal.com/showcase/uneedswap-v5-jn1hx
+sourceCodeUrl: https://github.com/jordan-public/multiprotocol-lp
+liveDemoUrl: ''
+team:
+  - github: jordan-public
+    twitter: JordanSt3000

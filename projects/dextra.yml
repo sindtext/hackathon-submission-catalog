@@ -1,0 +1,12 @@
+name: Dextra
+tagline: >-
+  Dextra is an on-chain text-based choose your own adventure game system ~
+  create or play!
+showcaseUrl: https://ethglobal.com/showcase/dextra-9wnc2
+sourceCodeUrl: https://github.com/thisispalash/ethglobal-sanfrancisco-2024
+liveDemoUrl: ''
+team:
+  - github: Griffin-McGuire
+    twitter: interfacechiral
+  - github: thisispalash
+    twitter: theprimefibber
