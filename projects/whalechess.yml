@@ -1,0 +1,12 @@
+name: WhaleChess
+tagline: On-chain chess with AI-generated custom pieces
+showcaseUrl: https://ethglobal.com/showcase/whalechess-0wfdf
+sourceCodeUrl: https://github.com/jmilldotdev/whalechess
+liveDemoUrl: https://whalechess.fun
+team: 
+  -
+    name: jmill
+    github: jmilldotdev
+  - 
+    name: Lucy Qiu
+    github: moribetamidori
