@@ -1,0 +1,11 @@
+name: Memenomics AI  # required
+tagline: The First AI-Agent That Trades, Educates, and KNOWS MEMECOINS  # optional
+showcaseUrl: https://www.loom.com/share/4790de9d7ca44032ae13140e5458c38f  # required
+sourceCodeUrl: https://github.com/ben-harper27/ethglobal-bangkok # required
+social: # optional
+  x: @harpoondev
+  github: ben-harper27
+team: # optional
+  -
+    name: Ben Harper
+    github: ben-harper27
