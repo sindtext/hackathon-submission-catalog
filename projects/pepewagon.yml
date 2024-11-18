@@ -1,0 +1,12 @@
+name: Pepewagon
+tagline: >-
+  Pepewagon, allowing users to map and earn rewards while contributing towards
+  open source dataset.
+showcaseUrl: https://ethglobal.com/showcase/pepewagon-vjvap
+sourceCodeUrl: https://github.com/JohnsonChin1009/pepewagon
+liveDemoUrl: ''
+team:
+  - github: JohnsonChin1009
+    twitter: JohnsonChi1009
+  - github: AqilJaafree
+    twitter: wanaokii

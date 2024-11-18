@@ -1,0 +1,11 @@
+name: Hunters
+tagline: >-
+  A Web3 Werewolf game bot powered by Flow's VRF for true randomness in role
+  assignment and OpenAI for immersive storytelling. Winners get FLOW tokens as
+  rewards! Built with MessageKit for XMTP group chats. #GameFi #Web3Gaming
+showcaseUrl: https://ethglobal.com/showcase/hunters-3p5r9
+sourceCodeUrl: https://github.com/aloksahay/Werewolves
+liveDemoUrl: ''
+team:
+  - github: aloksahay
+    twitter: sahay_alok

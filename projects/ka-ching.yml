@@ -1,0 +1,18 @@
+name: Ka-Ching
+tagline: >-
+  Ka-Ching, the first AI Agent + Explainable AI powered multisig wallet. Set up
+  your wallet in one prompt, spot fraud before it happens with sneaky sender
+  analysis, and enjoy a fun twist—play paper-rock-scissors to decide who covers
+  the gas fees! 🚀💸
+showcaseUrl: https://ethglobal.com/showcase/ka-ching-epjvo
+sourceCodeUrl: https://github.com/Ang-dot/ethglobal-thailand-ka-ching
+liveDemoUrl: ''
+team:
+  - github: Ang-dot
+    twitter: randomgrasser
+  - github: LauJoeYing
+    twitter: joeylau0712
+  - github: NLSheng
+    twitter: <missing>
+  - github: haoxiang14
+    twitter: haoxiang_14

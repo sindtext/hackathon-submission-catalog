@@ -1,0 +1,13 @@
+name: KidPay
+tagline: >-
+  KidPay is the payment app preferred by children to learn how to spend like
+  grownups. Sign up under a minute, with instant deposits and controlled
+  spending
+showcaseUrl: https://ethglobal.com/showcase/kidpay-giska
+sourceCodeUrl: https://github.com/Sednaoui/ethglobal-bangkok-2024
+liveDemoUrl: ''
+team:
+  - github: sednaoui
+    twitter: heymarcopolox
+  - github: sherifahmed990
+    twitter: <missing>

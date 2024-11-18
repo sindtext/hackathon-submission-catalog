@@ -1,0 +1,16 @@
+name: FlashFi
+tagline: A flash loan enabled multi sig that enables DAO treasury to earn yield
+showcaseUrl: https://ethglobal.com/showcase/flashfi-g27p4
+sourceCodeUrl: https://github.com/JulioMCruz/FlashFi
+liveDemoUrl: ''
+team:
+  - github: JulioMCruz
+    twitter: JulioMCruz
+  - github: jackiesafari
+    twitter: jackiesafari
+  - github: Akhil-2310
+    twitter: AkhilNanavati
+  - github: zhangdav
+    twitter: <missing>
+  - github: billyjitsu
+    twitter: Wc49358

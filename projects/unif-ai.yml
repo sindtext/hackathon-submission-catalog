@@ -1,0 +1,16 @@
+name: UnifAI
+tagline: >-
+  UnifAI is an AI-powered agent that merges web2 user experience with the web3
+  products.
+showcaseUrl: https://ethglobal.com/showcase/unifai-d0unn
+sourceCodeUrl: https://github.com/RostyslavBortman/AIAgent-Backend
+liveDemoUrl: ''
+team:
+  - github: RostyslavBortman
+    twitter: rostyketh
+  - github: AntonGulak
+    twitter: <missing>
+  - github: lazorenkoandrii
+    twitter: andreylazorenko
+  - github: nnkrivitskaya
+    twitter: <missing>

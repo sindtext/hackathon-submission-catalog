@@ -1,0 +1,18 @@
+name: XPredict
+tagline: >-
+  Turn posts into actionable insights with PredictX! Create prediction markets
+  directly from an X (Twitter) post, enabling real-time, cost-effective betting,
+  opinion sharing, and crowd-sourced forecasting. Transform discussions into
+  predictions and tap into the wisdom of the crowd!
+showcaseUrl: https://ethglobal.com/showcase/xpredict-2g4st
+sourceCodeUrl: https://github.com/chaitanyapotti/PredictX
+liveDemoUrl: ''
+team:
+  - github: chaitanyapotti
+    twitter: <missing>
+  - github: anniesailo
+    twitter: <missing>
+  - github: arch1995
+    twitter: massoom_abhi68
+  - github: tuna1207
+    twitter: tunable1207

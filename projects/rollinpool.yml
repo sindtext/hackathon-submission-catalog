@@ -1,0 +1,19 @@
+name: Rollin'pool
+tagline: >-
+  Rollin'pool is a user-friendly Telegram mini app that connects individual
+  drivers and passengers to share costs, reduce emissions, and enhance social
+  interactions, all while using ZK to ensure secure and private rides.
+showcaseUrl: https://ethglobal.com/showcase/rollin-pool-z0m15
+sourceCodeUrl: https://github.com/Violet-Bora-Lee/eth-global-bangkok-2024
+liveDemoUrl: ''
+team:
+  - github: sdaav
+    twitter: _SDAV
+  - github: Violet-Bora-Lee
+    twitter: LearnerBR
+  - github: rose2221
+    twitter: 0xrosetteeee
+  - github: ayabelarbi
+    twitter: 0xaya_
+  - github: frgpy
+    twitter: frg__y

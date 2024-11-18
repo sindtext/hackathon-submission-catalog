@@ -1,0 +1,12 @@
+name: WhaleChess
+tagline: >-
+  WhaleChess is an onchain chess game with AI-generated custom pieces and
+  play-to-earn mechanics
+showcaseUrl: https://ethglobal.com/showcase/whalechess-0wfdf
+sourceCodeUrl: https://github.com/jmilldotdev/whalechess
+liveDemoUrl: ''
+team:
+  - github: jmilldotdev
+    twitter: jmilldotdev
+  - github: moribetamidori
+    twitter: KSeisai

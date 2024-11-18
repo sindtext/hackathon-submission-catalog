@@ -1,0 +1,18 @@
+name: hAUTH
+tagline: >-
+  Telegram application for Human Authentication and Management of onchain AI
+  Agents.
+showcaseUrl: https://ethglobal.com/showcase/hauth-ngzy6
+sourceCodeUrl: https://github.com/vaniiiii/hAUTH
+liveDemoUrl: ''
+team:
+  - github: macropolo99
+    twitter: 0xkocha
+  - github: Scannty
+    twitter: <missing>
+  - github: VikTheTrick
+    twitter: viktorvujke
+  - github: Skocimis
+    twitter: bakoekorejia
+  - github: vaniiiii
+    twitter: <missing>

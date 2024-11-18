@@ -1,0 +1,18 @@
+name: Tick3t
+tagline: >-
+  Tick3t: Seamless, privacy-first event ticketing for Web3. Gasless NFT tickets
+  for crypto users, instant smart wallets for newcomers via Telegram, and
+  ZK-powered privacy for exclusive events. Bridging mass adoption and Web3
+  innovation effortlessly. 🎟️✨
+showcaseUrl: https://ethglobal.com/showcase/tick3t-g2qo0
+sourceCodeUrl: https://github.com/cleanerzkp/tick3t/
+liveDemoUrl: ''
+team:
+  - github: cleanerzkp
+    twitter: 0xcleaner
+  - github: HemangVora
+    twitter: corotvoid
+  - github: Tanguyvans
+    twitter: Tanguyvans
+  - github: miqlar
+    twitter: miqlar

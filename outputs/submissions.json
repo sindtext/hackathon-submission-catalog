@@ -13,6 +13,23 @@
     ]
   },
   {
+    "name": "almost free solidity",
+    "tagline": "This project introduces a @free annotation that allows you to offload any heavy computation offchain. It allows solidity developers to bring the cost of compute-heavy functions almost to zero without sacrificing the DevEx.",
+    "showcaseUrl": "https://ethglobal.com/showcase/almost-free-solidity-f056d",
+    "sourceCodeUrl": "https://github.com/AntonD3/almost-free-solidity",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "dimazhornyk",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "AntonD3",
+        "twitter": "<missing>"
+      }
+    ]
+  },
+  {
     "name": "Aloria",
     "tagline": "A decentralized omni-powerful AI personal assistant that can complete all kinds of tasks by operating directly on web browser",
     "showcaseUrl": "https://ethglobal.com/showcase/aloria-gfwo5",
@@ -135,6 +152,35 @@
       {
         "github": "timac11",
         "twitter": "b4b_world"
+      }
+    ]
+  },
+  {
+    "name": "Backpacker",
+    "tagline": "Backpacker rewards travelers with tokens for sharing reviews, unlocking exclusive travel deals while respecting privacy. Your insights train a federated AI model to power trip recommendation, creating a place where every shared experience helps others plan better journeys.",
+    "showcaseUrl": "https://ethglobal.com/showcase/backpacker-udm2g",
+    "sourceCodeUrl": "https://github.com/Risav03/backpacker",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "Risav03",
+        "twitter": "Degeneer03"
+      },
+      {
+        "github": "BlackDeath1107",
+        "twitter": "sengupta_soham"
+      },
+      {
+        "github": "SayakSarkar02",
+        "twitter": "SayakSarkar02"
+      },
+      {
+        "github": "im-still-thinking",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "raihankhan-rk",
+        "twitter": "raihankhan_rk"
       }
     ]
   },
@@ -269,6 +315,146 @@
     ]
   },
   {
+    "name": "Better",
+    "tagline": "Better is a DApp that combines the thrill of social betting with philanthropy. Place fun wagers on events and donate winnings to charity, blending entertainment with impact. Enjoy friendly competition while supporting causes you care about. Bet, win, and give back!",
+    "showcaseUrl": "https://ethglobal.com/showcase/better-oehcf",
+    "sourceCodeUrl": "https://github.com/Nishu0/EthGlobal-Bangkok-Project",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "aryangodara",
+        "twitter": "aryangodara03"
+      },
+      {
+        "github": "0xprinc",
+        "twitter": "0xprinc"
+      },
+      {
+        "github": "Nishu0",
+        "twitter": "itznishuu_"
+      },
+      {
+        "github": "QuantumAlphaCat",
+        "twitter": "AlphaHouse158"
+      }
+    ]
+  },
+  {
+    "name": "Blinks",
+    "tagline": "Traditional onchain transactions have been locked away in apps or complex interfaces, making it significantly harder for people to use crypto products. With Blinks or blockchain links, transactions can open up to anywhere on the internet — using Iframes.",
+    "showcaseUrl": "https://ethglobal.com/showcase/blinks-e8q7k",
+    "sourceCodeUrl": "https://github.com/AllenAJ/Blinks",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "AllenAJ",
+        "twitter": "allenjosephaj"
+      }
+    ]
+  },
+  {
+    "name": "BlockPress",
+    "tagline": "BlockPress is an open-source permissionless publishing platform which stores reusable modular code and users content on-chain",
+    "showcaseUrl": "https://ethglobal.com/showcase/blockpress-xwejc",
+    "sourceCodeUrl": "https://github.com/jamesbachini/BlockPress",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "jamesbachini",
+        "twitter": "james_bachini"
+      }
+    ]
+  },
+  {
+    "name": "Blocks and Balls",
+    "tagline": "A dynamic Web3 two-player card game where you compete against an AI opponent with seamless on-chain gameplay. Enjoy minimal transactions, secure randomness, and transparent AI actions powered by Trusted Execution Environments (TEE).",
+    "showcaseUrl": "https://ethglobal.com/showcase/blocks-and-balls-ifjxv",
+    "sourceCodeUrl": "https://github.com/RomarioKavin1/ZoroFootball",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "RomarioKavin1",
+        "twitter": "RomarioKavin1"
+      },
+      {
+        "github": "Abijesh",
+        "twitter": "GregAbijesh"
+      }
+    ]
+  },
+  {
+    "name": "BookMeBot",
+    "tagline": "BookMeBot is a collaborative travel booking assistant designed for group trips, booked onchain right in your group chat",
+    "showcaseUrl": "https://ethglobal.com/showcase/bookmebot-1awz4",
+    "sourceCodeUrl": "https://github.com/BookMeBot/book-me-bot",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "jennyg0",
+        "twitter": "web3djen"
+      },
+      {
+        "github": "marissaposner",
+        "twitter": "wizardofpos"
+      },
+      {
+        "github": "gfarrisi",
+        "twitter": "elliefarrisi"
+      }
+    ]
+  },
+  {
+    "name": "Butter",
+    "tagline": "\"Butter optimizes side events on-chain with AI recommendations, token staking, and gamified reputations. Discover, register, and engage seamlessly while building trust and accountability. 🧈\"",
+    "showcaseUrl": "https://ethglobal.com/showcase/butter-x6q06",
+    "sourceCodeUrl": "https://github.com/ShaunLim08/Vitalik-Butterin",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "ShaunLim08",
+        "twitter": "ShaunRiser"
+      },
+      {
+        "github": "shiying0",
+        "twitter": "shiying0818"
+      },
+      {
+        "github": "codyy6",
+        "twitter": "cody_liew"
+      }
+    ]
+  },
+  {
+    "name": "BuzziFy",
+    "tagline": "We are building a platform over SuperFluid to facilitate you to bet on your favorite content creator and its growth. With our unique score calculation, you can predict what score he gains - this unique score will provide a more decentralized and trusted environment for the users to bet. By just predicting what score the creator gets you can bet your amount and earn your share from the pool amount if you strike it correctly.",
+    "showcaseUrl": "https://ethglobal.com/showcase/buzzify-2i6uc",
+    "sourceCodeUrl": "https://github.com/Kali-Decoder/Buzzify-Eth-Global",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "Kali-Decoder",
+        "twitter": "itsNikku876"
+      }
+    ]
+  },
+  {
+    "name": "Buzzify 💸",
+    "tagline": "Buzzify: A gamified prediction marketplace where accuracy pays! 🎯 Predict social media engagement scores, get rewarded based on proximity, and turn every guess into earnings. Dive into the fun with fan clubs, giveaways, and risk-free play! 🚀",
+    "showcaseUrl": "https://ethglobal.com/showcase/buzzify-2i6uc",
+    "sourceCodeUrl": "https://github.com/Kali-Decoder/Buzzify-Eth-Global",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "Kali-Decoder",
+        "twitter": "itsNikku876"
+      },
+      {
+        "github": "marotipatre",
+        "twitter": "maroti_ps"
+      }
+    ]
+  },
+  {
     "name": "Carbon Wheel",
     "tagline": "CarbonWheel is a platform that incentivizes electric vehicle (EV) users by rewarding them with carbon credits for their contributions to environmental sustainability.",
     "showcaseUrl": "https://ethglobal.com/showcase/carbon-wheel-2x3ta",
@@ -278,6 +464,61 @@
       {
         "github": "kgobin2000",
         "twitter": "<missing>"
+      }
+    ]
+  },
+  {
+    "name": "Chain of Thrones",
+    "tagline": "Chain of Thrones is an onchain strategic pvp wargame where players deploy armies, negotiate collaboration, and battle for the first to control 3 of 5 castles.",
+    "showcaseUrl": "https://ethglobal.com/showcase/chain-of-thrones-qofbq",
+    "sourceCodeUrl": "https://github.com/timothyshen/EthBKK2024",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "Chloezhu010",
+        "twitter": "chloe_zhux"
+      },
+      {
+        "github": "bowenyou",
+        "twitter": "0xbyyou"
+      },
+      {
+        "github": "timothyshen",
+        "twitter": "timtimtim_eth"
+      }
+    ]
+  },
+  {
+    "name": "ChainSmash",
+    "tagline": "ChainSmash is a Web3-native card game where players battle using blockchain",
+    "showcaseUrl": "https://ethglobal.com/showcase/chainsmash-5zb19",
+    "sourceCodeUrl": "https://github.com/Playspherelabs/AI_Card_Game",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "argenestel",
+        "twitter": "0xArpitg"
+      }
+    ]
+  },
+  {
+    "name": "ChallengeMe",
+    "tagline": "ChallengeMe is a user-friendly, Web3-integrated app for tight-knit groups where friends bet “CAN” or “CAN’T” on personal challenges, fostering personal growth. Gamified stakes, 🎲 Random Verifier resolutions, and decentralization ensure trust, transparency, and fun. 💪✨",
+    "showcaseUrl": "https://ethglobal.com/showcase/challengeme-pv7m5",
+    "sourceCodeUrl": "https://github.com/UniqSoftTech/challenge-me",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "ganjiguur",
+        "twitter": "jiguur_n"
+      },
+      {
+        "github": "Jay-1110",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "batgerelt",
+        "twitter": "batgereltb"
       }
     ]
   },
@@ -311,6 +552,90 @@
     ]
   },
   {
+    "name": "Civikit",
+    "tagline": "CiviKit: A modular governance laboratory built on Scaffold-ETH-2. Create custom DAOs and grant systems by mixing governance primitives, from tunable quadratic funding to reputation-weighted voting. Experiment, deploy, and evolve democratic systems faster.",
+    "showcaseUrl": "https://ethglobal.com/showcase/civikit-07qs7",
+    "sourceCodeUrl": "https://github.com/Novus-Initium/Civikit",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "HashSlayer",
+        "twitter": "Mewkail"
+      },
+      {
+        "github": "saurabh",
+        "twitter": "0xbuildooor"
+      },
+      {
+        "github": "0xJade",
+        "twitter": "tirisanna"
+      }
+    ]
+  },
+  {
+    "name": "Commit",
+    "tagline": "Event app with staking mechanism for registrations in order prevent no showups",
+    "showcaseUrl": "https://ethglobal.com/showcase/commit-1ho5q",
+    "sourceCodeUrl": "https://github.com/Commit-by-ETH-Belgrade/dapp",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "develo-pera",
+        "twitter": "0xdevelopera"
+      },
+      {
+        "github": "milanpajovic",
+        "twitter": "PajovicMilan"
+      },
+      {
+        "github": "viraj124",
+        "twitter": "Viraz04"
+      }
+    ]
+  },
+  {
+    "name": "CommonGround",
+    "tagline": "Our platform is a Web3 crowdfunding infrastructure for public goods, using AI and decentralized funding to simplify participation for Web2/Web3 users. It offers personalized recommendations, milestone-based funding, and community-driven decisions, empowering impactful projects.",
+    "showcaseUrl": "https://ethglobal.com/showcase/commonground-7f9b3",
+    "sourceCodeUrl": "https://github.com/common-ground-org/common-ground",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "KelsenL",
+        "twitter": "kelsen_liu"
+      },
+      {
+        "github": "YuChanGongzhu",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "FrozenArcher",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "Zoey7722",
+        "twitter": "<missing>"
+      }
+    ]
+  },
+  {
+    "name": "Community Tag",
+    "tagline": "Community Tag is a Telegram miniapp that connects user identities, wallets, and tags to manage relationships with communities. It supports multi-chain wallets, privacy-focused verifications, and gamified interactions within decentralized ecosystems.",
+    "showcaseUrl": "https://ethglobal.com/showcase/community-tag-i7rjx",
+    "sourceCodeUrl": "https://github.com/SpokieKid/ethglobalbkk",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "spokiekid",
+        "twitter": "arvinatwild"
+      },
+      {
+        "github": "0xtwone",
+        "twitter": "tokyo10086"
+      }
+    ]
+  },
+  {
     "name": "Consulaite",
     "tagline": "Chat for CEOs simplifies decision-making in the crypto & Web3 space by providing tailored, data-driven recommendations for tools, platforms, and companies based on CEO requirements and budgets. Avoid costly consultants with real-time insights into the latest solutions",
     "showcaseUrl": "https://ethglobal.com/showcase/consulaite-75z9b",
@@ -324,6 +649,69 @@
     ]
   },
   {
+    "name": "ContractAI",
+    "tagline": "Contract AI: Write, compile, deploy, and interact with smart contracts seamlessly. With AI-powered, chain-specific agents and an integrated interaction tool, it's your one-stop platform for Solidity development. No setup needed — just bring your ideas to life!",
+    "showcaseUrl": "https://ethglobal.com/showcase/contractai-enjba",
+    "sourceCodeUrl": "https://github.com/Bhavik-punmiya/eth-bangkok-2024",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "Bhavik-punmiya",
+        "twitter": "bhavikpunmiya1"
+      },
+      {
+        "github": "shantanuSakpal",
+        "twitter": "Shantanu_1405"
+      }
+    ]
+  },
+  {
+    "name": "Cookies 4m Groupies",
+    "tagline": "Cookies From Groupies is a web3 platform empowering artists to earn through donations, selling NFTs, and profit-sharing from supporter staking. Fans unlock exclusive content, token-gated chats, and meaningful connections with their favorite artists.",
+    "showcaseUrl": "https://ethglobal.com/showcase/cookies-4m-groupies-6c7gk",
+    "sourceCodeUrl": "https://github.com/pratiksardar/cookies-4m-groupies",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "nidhi-singh02",
+        "twitter": "nidhisinghattri"
+      },
+      {
+        "github": "pratiksardar",
+        "twitter": "pratik_sardar"
+      },
+      {
+        "github": "SaraGabriela",
+        "twitter": "holasari_"
+      }
+    ]
+  },
+  {
+    "name": "Crop Cash",
+    "tagline": "Decentarlised financing for farmers using satelite data as a credit score.",
+    "showcaseUrl": "https://ethglobal.com/showcase/crop-cash-hu32s",
+    "sourceCodeUrl": "https://github.com/jasonkwm/crop-cash",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "hiromasa0629",
+        "twitter": "0xhiromasa"
+      },
+      {
+        "github": "jasonkwm",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "Bunyod16",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "brianyeap",
+        "twitter": "<missing>"
+      }
+    ]
+  },
+  {
     "name": "Cross-Chain Mon",
     "tagline": "This is a Pokemon game spanned across multiple EVM chains. Players have to bridge across chains via Autonomous World contracts to collect all pokemon (Cross-Chain-Mons)",
     "showcaseUrl": "https://ethglobal.com/showcase/cross-chain-mon-sbf66",
@@ -333,6 +721,23 @@
       {
         "github": "0xhatsume",
         "twitter": "0xhatsume"
+      }
+    ]
+  },
+  {
+    "name": "Crypto.AI.SharkTank",
+    "tagline": "🚀 CryptoSharkTank: Meet your AI-powered judging team! 🤖 Our 5 expert agents evaluate crypto projects on Team, Tech, Tokenomics, Market, & Community, saving VCs & hackathon judges time while helping teams refine their pitches. Smarter decisions, sharper pitches! 🌟 ",
+    "showcaseUrl": "https://ethglobal.com/showcase/crypto-ai-sharktank-ebbuw",
+    "sourceCodeUrl": "https://github.com/0xhatsume/CryptoAiSharkTank",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "0xhatsume",
+        "twitter": "0xhatsume"
+      },
+      {
+        "github": "doukooo",
+        "twitter": "<missing>"
       }
     ]
   },
@@ -358,6 +763,44 @@
       {
         "github": "mugdha2626",
         "twitter": "<missing>"
+      }
+    ]
+  },
+  {
+    "name": "Cyber Wooden Fish",
+    "tagline": "A playful crypto platform where tokens are pumped using your phone's accelerometer and ZKTLS. Accumulate merit points to issue tokens. Designed for real-world social FOMO, turning memes into a movement. It’s crypto fun with a spiritual twist!",
+    "showcaseUrl": "https://ethglobal.com/showcase/cyber-wooden-fish-7z1ve",
+    "sourceCodeUrl": "https://github.com/hollow-leaf/cyber-wooden-fish",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "kidneyweakx",
+        "twitter": "kidneyweakx"
+      },
+      {
+        "github": "LinXJ1204",
+        "twitter": "ZZzlin2022"
+      },
+      {
+        "github": "jarekkkkk",
+        "twitter": "0xJarekkkkk"
+      }
+    ]
+  },
+  {
+    "name": "DAOGenie",
+    "tagline": "DAO Genie turns community decisions into real-world actions with simple governance and automated execution, building the bridge between digital communities and physical impact.",
+    "showcaseUrl": "https://ethglobal.com/showcase/daogenie-nha62",
+    "sourceCodeUrl": "https://github.com/tkeith/daogenie",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "cozyss",
+        "twitter": "shu_riley"
+      },
+      {
+        "github": "tkeith",
+        "twitter": "tsrkeith"
       }
     ]
   },
@@ -442,6 +885,23 @@
     ]
   },
   {
+    "name": "DegenAgent",
+    "tagline": "The DegenAgent is an  AI agent that is designed to analyse the meme coin market, utilizing various data sources such as market sentiment, social media trends, and technical indicators. The agent will then automatically execute buy or sell orders on a blockchain-based exchange ",
+    "showcaseUrl": "https://ethglobal.com/showcase/degenagent-zqmdu",
+    "sourceCodeUrl": "https://github.com/vibenedict/degenAgent",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "vibenedict",
+        "twitter": "maxvfresh001"
+      },
+      {
+        "github": "princeibs",
+        "twitter": "prince_ibs"
+      }
+    ]
+  },
+  {
     "name": "Dextra",
     "tagline": "Dextra is an on-chain text-based choose your own adventure game system ~ create or play!",
     "showcaseUrl": "https://ethglobal.com/showcase/dextra-9wnc2",
@@ -513,6 +973,36 @@
     ]
   },
   {
+    "name": "ELO Flow",
+    "tagline": "On-chain Poker Game using VRF on Flow with gasless transactions",
+    "showcaseUrl": "https://ethglobal.com/showcase/elo-flow-ceo8a",
+    "sourceCodeUrl": "https://github.com/marcuspang/eloflow",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "marcuspang",
+        "twitter": "marcuspangeth"
+      }
+    ]
+  },
+  {
+    "name": "EngagR",
+    "tagline": "A  decentralised Social Ads Platform built in intersection of web2 and web3. Marketers create campaigns, track performance, and optimize. Promoters earn through unique links, driving clicks and conversions on there tweets and posts",
+    "showcaseUrl": "https://ethglobal.com/showcase/engagr-jn1sc",
+    "sourceCodeUrl": "https://github.com/mbcse/engagr",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "dipanshuraz",
+        "twitter": "blockc_school"
+      },
+      {
+        "github": "mbcse",
+        "twitter": "mbcse50"
+      }
+    ]
+  },
+  {
     "name": "Ether Go",
     "tagline": "Pokemon Go but with actual animals to crowdsource the $2.1B problem of wildlife tracking!",
     "showcaseUrl": "https://ethglobal.com/showcase/ether-go-9y3ry",
@@ -527,6 +1017,27 @@
         "name": "William Wang",
         "github": "williammuw",
         "twitter": "heywilliamwang"
+      }
+    ]
+  },
+  {
+    "name": "Etherea",
+    "tagline": "Gamified learning platform designed to teach blockchain and Web3 concepts, where users earn tokens with real-world value as they progress through engaging educational content.",
+    "showcaseUrl": "https://ethglobal.com/showcase/etherea-5m5ru",
+    "sourceCodeUrl": "https://github.com/Junshen18/etherea-gamified-elearning",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "Junshen18",
+        "twitter": "_Junshen18"
+      },
+      {
+        "github": "LingSiewWin",
+        "twitter": "SiewwinL24603"
+      },
+      {
+        "github": "Hopplers",
+        "twitter": "junian64"
       }
     ]
   },
@@ -561,6 +1072,57 @@
       {
         "name": "Wolfgang Sell",
         "github": "wolfiesell"
+      }
+    ]
+  },
+  {
+    "name": "ETHVercel",
+    "tagline": "Deploy sovereign applications with ZK-powered location validation, earning Proof of Deployment tokens (ERC-5192). Build your on-chain deployment reputation while maintaining granular access control in a collaborative ecosystem.",
+    "showcaseUrl": "https://ethglobal.com/showcase/ethvercel-inezg",
+    "sourceCodeUrl": "https://github.com/dhananjaypai08/ETHVercel",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "dhananjaypai08",
+        "twitter": "dhananj10181396"
+      }
+    ]
+  },
+  {
+    "name": "EVMeme",
+    "tagline": " A multichain meme coin launchpad enabling secure ERC-20 creation and fostering social engagement.",
+    "showcaseUrl": "https://ethglobal.com/showcase/evmeme-8v96d",
+    "sourceCodeUrl": "https://github.com/izzetemredemir/evmeme",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "izzetemredemir",
+        "twitter": "izzetemredemir"
+      },
+      {
+        "github": "karasakalmt",
+        "twitter": "karasakalmt"
+      }
+    ]
+  },
+  {
+    "name": "EVMeme",
+    "tagline": "Meme token launchpad",
+    "showcaseUrl": "https://ethglobal.com/showcase/evmeme-8v96d",
+    "sourceCodeUrl": "https://github.com/izzetemredemir/evmeme",
+    "social": {
+      "x": "izzetemredemir",
+      "github": "izzetemredemir"
+    },
+    "team": [
+      {
+        "name": "İzzet Emre Demir",
+        "github": "izzetemredemir"
+      },
+      {
+        "name": "Mete Karasakal",
+        "github": "karasakalmt",
+        "x": "karasakalmt"
       }
     ]
   },
@@ -628,6 +1190,55 @@
     ]
   },
   {
+    "name": "FanFusion",
+    "tagline": "The hyper-focused ultimate SocialFi x SportFi platform! Engage with dynamic AIGC-generated quizzes, pool-based fantasy sports, fan tokens, and NFT collectibles. Built on EVM-compatible chains for seamless scalability and powered by Flow, Chiliz, Scroll, Celo, Morph and Mantle. 🏀",
+    "showcaseUrl": "https://ethglobal.com/showcase/fanfusion-c3m6u",
+    "sourceCodeUrl": "https://github.com/VISIONAAX/FanFusion",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "AmaanSayyad",
+        "twitter": "amaansayyad15"
+      }
+    ]
+  },
+  {
+    "name": "FanFusion",
+    "tagline": "The hyper-focused ultimate SocialFi x SportFi platform! Engage with dynamic AIGC-generated quizzes, pool-based fantasy sports, fan tokens, and NFT collectibles. Built on EVM-compatible chains for seamless scalability and powered by Flow. 🏀",
+    "showcaseUrl": "https://ethglobal.com/showcase/fanfusion-c3m6u",
+    "sourceCodeUrl": "https://github.com/VISIONAAX/FanFusion",
+    "liveDemoUrl": "https://ethglobal.com/showcase/fanfusion-c3m6u"
+  },
+  {
+    "name": "FellowFund",
+    "tagline": "FellowFund is an on-chain fellowship platform using prediction markets to fund individuals. Bettors stake on verifiable future outcomes, reducing evaluation overhead and aligning incentives for outcome-driven, efficient ecosystem growth.",
+    "showcaseUrl": "https://ethglobal.com/showcase/fellowfund-2hcau",
+    "sourceCodeUrl": "https://github.com/fellowfund/fellowfund-hack-mvp",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "thedanielmark",
+        "twitter": "thedanielmark"
+      },
+      {
+        "github": "mialbu",
+        "twitter": "mialbucher"
+      },
+      {
+        "github": "gsmachado",
+        "twitter": "gsmachado"
+      },
+      {
+        "github": "fabianferno",
+        "twitter": "fabianferno"
+      },
+      {
+        "github": "LeoFranklin015",
+        "twitter": "LeoFranklin_15"
+      }
+    ]
+  },
+  {
     "name": "FileBeam",
     "tagline": "FileBeam beams petabytes of multichain dApp data into the open data economy!",
     "showcaseUrl": "https://ethglobal.com/showcase/filebeam-4g61n",
@@ -653,6 +1264,56 @@
       {
         "github": "snissn",
         "twitter": "mseiler1"
+      }
+    ]
+  },
+  {
+    "name": "FlappyNouns",
+    "tagline": "A Nouns-Style FlappyBird-Like Telegram game deployed on Flow that gives u a chance to navigate challenges and earn NFT as skins.",
+    "showcaseUrl": "https://ethglobal.com/showcase/flappynouns-hdmd9",
+    "sourceCodeUrl": "https://github.com/FlappyNouns/Client",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "FoeverA0",
+        "twitter": "SunnySHEN15168"
+      },
+      {
+        "github": "Donnykk",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "kKAqua",
+        "twitter": "kK_4qua"
+      }
+    ]
+  },
+  {
+    "name": "FlashFi",
+    "tagline": "A flash loan enabled multi sig that enables DAO treasury to earn yield",
+    "showcaseUrl": "https://ethglobal.com/showcase/flashfi-g27p4",
+    "sourceCodeUrl": "https://github.com/JulioMCruz/FlashFi",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "JulioMCruz",
+        "twitter": "JulioMCruz"
+      },
+      {
+        "github": "jackiesafari",
+        "twitter": "jackiesafari"
+      },
+      {
+        "github": "Akhil-2310",
+        "twitter": "AkhilNanavati"
+      },
+      {
+        "github": "zhangdav",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "billyjitsu",
+        "twitter": "Wc49358"
       }
     ]
   },
@@ -698,6 +1359,19 @@
       {
         "Name": "Nicolas Qasawadish",
         "twitter": "NQasawadish"
+      }
+    ]
+  },
+  {
+    "name": "Folktag",
+    "tagline": "Folktrack is a framework of knowledge for agricultural businesses or producers on-chain!",
+    "showcaseUrl": "https://ethglobal.com/showcase/folktag-uj4vo",
+    "sourceCodeUrl": "https://github.com/korrio/folktrack",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "nanthanwa",
+        "twitter": "tjincan"
       }
     ]
   },
@@ -752,6 +1426,35 @@
     ]
   },
   {
+    "name": "Fund In Need (FIN)",
+    "tagline": "FIN (Fund In Need) give a solution for enhancing creditworthiness in decentralized finance (DeFi) by tokenizing users' on-chain credit scores into ERC-1155 tokens. In one line, we allow people to borrow money, by collaterizing their social credit. ",
+    "showcaseUrl": "https://ethglobal.com/showcase/fund-in-need-fin-kqioq",
+    "sourceCodeUrl": "https://github.com/Funds-In-Need/Fund-In-Need",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "noobstar3310",
+        "twitter": "eggyway"
+      },
+      {
+        "github": "gohweiqi",
+        "twitter": "WeiQi"
+      },
+      {
+        "github": "Ckayz",
+        "twitter": "LCKian88"
+      },
+      {
+        "github": "shuenrui",
+        "twitter": "shuenrui"
+      },
+      {
+        "github": "raykon1221",
+        "twitter": "xinrou_1221"
+      }
+    ]
+  },
+  {
     "name": "Fuse",
     "tagline": "Infinite crafting game using GenAI and awarding NFTs, this game involves combining concepts and exploring what they might create ",
     "showcaseUrl": "https://ethglobal.com/showcase/fuse-5wsiz",
@@ -802,6 +1505,48 @@
     ]
   },
   {
+    "name": "Gam3THub",
+    "tagline": "Gam3THub: The Ultimate Open-Source Web3 Gaming Hub for Quests, Airdrops, and Rewards",
+    "showcaseUrl": "https://ethglobal.com/showcase/gam3thub-zp9dx",
+    "sourceCodeUrl": "https://github.com/gam3thub/Game3THub/",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "orlandonanditonehemia",
+        "twitter": "orlandonandito"
+      },
+      {
+        "github": "keyserjaya",
+        "twitter": "Verselabs_FND"
+      }
+    ]
+  },
+  {
+    "name": "GASUB",
+    "tagline": "This platform enables users to purchase a gas-sponsorship subscription (potentially as an NFT) across any blockchain they choose.",
+    "showcaseUrl": "https://ethglobal.com/showcase/gasub-8m5z1",
+    "sourceCodeUrl": "https://github.com/mahdieh-amiri1/ethglobal-bangkok",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "mahdieh-amiri1",
+        "twitter": "mahdieh_amiri1"
+      },
+      {
+        "github": "itsmehdiabdi",
+        "twitter": "IthinkitsMeT"
+      },
+      {
+        "github": "chavoshimahdieh",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "xana-rahmani",
+        "twitter": "_iamxana"
+      }
+    ]
+  },
+  {
     "name": "Geeg",
     "tagline": "Match with the perfect talent for a seamless and transparent project experience, secured by blockchain technology.",
     "showcaseUrl": "https://ethglobal.com/showcase/geeg-70kwa",
@@ -828,6 +1573,86 @@
       {
         "github": "Sohamkayal4103",
         "twitter": "kayal_soham"
+      }
+    ]
+  },
+  {
+    "name": "Grid",
+    "tagline": "Future Solutions for Spatial Computing: Web3 3D Asset Marketplace, an AR AI Wearable and Geospatial AR",
+    "showcaseUrl": "https://ethglobal.com/showcase/grid-axfmi",
+    "sourceCodeUrl": "https://github.com/This-Is-Captain-Code/ethbangkok",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "This-Is-Captain-Code",
+        "twitter": "CptnC0d3"
+      }
+    ]
+  },
+  {
+    "name": "GrowFlow",
+    "tagline": "GrowFlow 🌱 is a consumer app with gamified features that make learning hydroponics engaging and rewarding. Build systems, complete interactive challenges, earn NFTs and discounts, and join a global DAO promoting sustainable farming.",
+    "showcaseUrl": "https://ethglobal.com/showcase/growflow-rpgk3",
+    "sourceCodeUrl": "https://github.com/KismetKrystle/grow-flow",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "AprilSevenWalker",
+        "twitter": "herdaobali"
+      },
+      {
+        "github": "KismetKrystle",
+        "twitter": "kismetkrystle"
+      },
+      {
+        "github": "EstherLavender",
+        "twitter": "lavenderesther1"
+      },
+      {
+        "github": "hara-desu",
+        "twitter": "300buckss"
+      },
+      {
+        "github": "Sianoi",
+        "twitter": "SianoiKimari"
+      }
+    ]
+  },
+  {
+    "name": "Gutenix",
+    "tagline": "Building an open education ecosystem: Our open-source platform equips learners with AI-driven active learning, smart assessments & automated open-ended grading. Earn trustworthy certificates that work both on and off-chain. Quality education, accessible & composable at scale. 🎓",
+    "showcaseUrl": "https://ethglobal.com/showcase/gutenix-fk87w",
+    "sourceCodeUrl": "https://github.com/y-pakorn/redacted",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "yoyoismee",
+        "twitter": "0xyoyoismee"
+      },
+      {
+        "github": "y-pakorn",
+        "twitter": "yyyoisha"
+      }
+    ]
+  },
+  {
+    "name": "Gyrolly",
+    "tagline": "Gyrolly is a DePIN project which enables physical movement to be counted on mobile application...",
+    "showcaseUrl": "https://ethglobal.com/showcase/gyrolly-syiqu",
+    "sourceCodeUrl": "https://github.com/minyongha/gyrolly",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "YangHyunYong",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "6luv",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "YeonhaPark",
+        "twitter": "philodevgo"
       }
     ]
   },
@@ -878,6 +1703,35 @@
     ]
   },
   {
+    "name": "hAUTH",
+    "tagline": "Telegram application for Human Authentication and Management of onchain AI Agents.",
+    "showcaseUrl": "https://ethglobal.com/showcase/hauth-ngzy6",
+    "sourceCodeUrl": "https://github.com/vaniiiii/hAUTH",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "macropolo99",
+        "twitter": "0xkocha"
+      },
+      {
+        "github": "Scannty",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "VikTheTrick",
+        "twitter": "viktorvujke"
+      },
+      {
+        "github": "Skocimis",
+        "twitter": "bakoekorejia"
+      },
+      {
+        "github": "vaniiiii",
+        "twitter": "<missing>"
+      }
+    ]
+  },
+  {
     "name": "hoshi",
     "tagline": "A web3 social media app that gives automatic IP rights to content creation through NFTs, making use of AI to identify derivative work.",
     "showcaseUrl": "https://ethglobal.com/showcase/hoshi-xzzxj",
@@ -903,6 +1757,32 @@
     ]
   },
   {
+    "name": "Hundred2one",
+    "tagline": "Introducing Hundred2One—a fun, opinion-driven social media platform! Swipe to vote on questions, predict vote percentages, and create shareable opinion graphics—all within a Telegram mini app. Make opinions interactive and community-driven!",
+    "showcaseUrl": "https://ethglobal.com/showcase/hundred2one-7gznc",
+    "sourceCodeUrl": "https://github.com/llamii/Hundred2One",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "Cosmodude",
+        "twitter": "CosmicDude3000"
+      }
+    ]
+  },
+  {
+    "name": "Hunters",
+    "tagline": "A Web3 Werewolf game bot powered by Flow's VRF for true randomness in role assignment and OpenAI for immersive storytelling. Winners get FLOW tokens as rewards! Built with MessageKit for XMTP group chats. #GameFi #Web3Gaming",
+    "showcaseUrl": "https://ethglobal.com/showcase/hunters-3p5r9",
+    "sourceCodeUrl": "https://github.com/aloksahay/Werewolves",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "aloksahay",
+        "twitter": "sahay_alok"
+      }
+    ]
+  },
+  {
     "name": "Hydro-Fi",
     "tagline": "Hydrofi is a blockchain-based, gamified learning platform where users build and manage hydroponic systems, earning rewards through real-world farming challenges and NFT ownership.",
     "showcaseUrl": "https://ethglobal.com/showcase/hydro-fi-mcp72",
@@ -920,6 +1800,70 @@
       {
         "github": "Sianoi",
         "twitter": "SianoiKimari"
+      }
+    ]
+  },
+  {
+    "name": "Hydrofy",
+    "tagline": "Find the nearest restrooms, crowdedsourced, verified by AI, on chain.",
+    "showcaseUrl": "https://ethglobal.com/showcase/hydrofy-pu8ra",
+    "sourceCodeUrl": "https://github.com/WilliamUW/ETHGlobalBangkok",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "williamuw",
+        "twitter": "heywilliamwang"
+      }
+    ]
+  },
+  {
+    "name": "IAMuse",
+    "tagline": "Crowdsourced prediction markets and PVP gameplay powered by AI and Gnosis CTF",
+    "showcaseUrl": "https://ethglobal.com/showcase/iamuse-c5qdq",
+    "sourceCodeUrl": "https://github.com/UltimateRoman/IAMuse",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "UltimateRoman",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "alanphil2k01",
+        "twitter": "alan_pn5"
+      },
+      {
+        "github": "abelzach",
+        "twitter": "Zach_185"
+      },
+      {
+        "github": "seigneur",
+        "twitter": "<missing>"
+      }
+    ]
+  },
+  {
+    "name": "ImposterSOS",
+    "tagline": "ImposterSOS is a Web3 game where 3–6 players stake an entry fee, describe images, and guess the imposter before time runs out. Expose the imposter or outsmart everyone to win! 🚀🕵️‍♂️",
+    "showcaseUrl": "https://ethglobal.com/showcase/impostersos-kjh2g",
+    "sourceCodeUrl": "https://github.com/chiragbadhe/impostersos",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "chiragbadhe",
+        "twitter": "0xChirag"
+      }
+    ]
+  },
+  {
+    "name": "InnoFi",
+    "tagline": "InnoFi is a cross-chain lending platform that lets users borrow against collateral, including unpaid invoices. With on-chain credit scores, price feeds, and rewards for timely repayment, InnoFi offers secure and efficient lending.",
+    "showcaseUrl": "https://ethglobal.com/showcase/innofi-wgkvc",
+    "sourceCodeUrl": "https://github.com/sambitsargam/ethglobal-bangkok",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "sambitsargam",
+        "twitter": "sambitsargam"
       }
     ]
   },
@@ -958,6 +1902,23 @@
     ]
   },
   {
+    "name": "Jiggly",
+    "tagline": "Jiggly: Your AI-powered blockchain companion that makes cross-chain operations feel like chatting with a friend. Seamlessly create token links, transfer assets, and explore connections across networks using natural language.",
+    "showcaseUrl": "https://ethglobal.com/showcase/jiggly-6joy2",
+    "sourceCodeUrl": "https://github.com/JuinSoft/Jiggly",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "jintukumardas",
+        "twitter": "jintuisbusy"
+      },
+      {
+        "github": "S0naliThakur",
+        "twitter": "thesothakur"
+      }
+    ]
+  },
+  {
     "name": "JITLiq Network",
     "tagline": "JIT Liquidity Network—a scalable liquidity layer powered by an actively validated solver network, making fast and efficient bridging across multiple chains possible",
     "showcaseUrl": "https://ethglobal.com/showcase/jitliq-network-m2cw1",
@@ -971,6 +1932,19 @@
       {
         "github": "rahul0tripathi",
         "twitter": "tripathi_rahul_"
+      }
+    ]
+  },
+  {
+    "name": "JoinF",
+    "tagline": "that merges the usability of traditional social networks with the transparency and economic opportunities of blockchain technology.",
+    "showcaseUrl": "https://ethglobal.com/showcase/joinf-8tecg",
+    "sourceCodeUrl": "https://github.com/yigitcangokmen/joinf/",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "yigitcangokmen",
+        "twitter": "yigitcangokmen"
       }
     ]
   },
@@ -1004,6 +1978,31 @@
     ]
   },
   {
+    "name": "Ka-Ching",
+    "tagline": "Ka-Ching, the first AI Agent + Explainable AI powered multisig wallet. Set up your wallet in one prompt, spot fraud before it happens with sneaky sender analysis, and enjoy a fun twist—play paper-rock-scissors to decide who covers the gas fees! 🚀💸",
+    "showcaseUrl": "https://ethglobal.com/showcase/ka-ching-epjvo",
+    "sourceCodeUrl": "https://github.com/Ang-dot/ethglobal-thailand-ka-ching",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "Ang-dot",
+        "twitter": "randomgrasser"
+      },
+      {
+        "github": "LauJoeYing",
+        "twitter": "joeylau0712"
+      },
+      {
+        "github": "NLSheng",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "haoxiang14",
+        "twitter": "haoxiang_14"
+      }
+    ]
+  },
+  {
     "name": "Keyless",
     "tagline": "Keyless AI is an AI-powered assistant that simplifies blockchain interactions. Users can perform token swaps, staking, and transfers using natural language. It leverages multi-agent systems to optimize transactions securely, integrating with smart accounts for seamless execution.",
     "showcaseUrl": "https://ethglobal.com/showcase/keyless-znz6x",
@@ -1025,6 +2024,23 @@
       {
         "github": "juhikhare2",
         "twitter": "juhi_khare11"
+      }
+    ]
+  },
+  {
+    "name": "KidPay",
+    "tagline": "KidPay is the payment app preferred by children to learn how to spend like grownups. Sign up under a minute, with instant deposits and controlled spending",
+    "showcaseUrl": "https://ethglobal.com/showcase/kidpay-giska",
+    "sourceCodeUrl": "https://github.com/Sednaoui/ethglobal-bangkok-2024",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "sednaoui",
+        "twitter": "heymarcopolox"
+      },
+      {
+        "github": "sherifahmed990",
+        "twitter": "<missing>"
       }
     ]
   },
@@ -1071,6 +2087,48 @@
     ]
   },
   {
+    "name": "LootGO",
+    "tagline": "LootGO is like a Pokémon GO but collecting memecoins,  turning your daily life into a treasure hunt for finding the next 100x memecoins",
+    "showcaseUrl": "https://ethglobal.com/showcase/lootgo-0pw8s",
+    "sourceCodeUrl": "https://github.com/Loot-Go/lootgo",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "yukiwaki",
+        "twitter": "yukiw_eth"
+      },
+      {
+        "github": "pjijin",
+        "twitter": "pjijin_"
+      },
+      {
+        "github": "pavvann",
+        "twitter": "pavvannn"
+      },
+      {
+        "github": "ByteCrak07",
+        "twitter": "AbilSavio"
+      },
+      {
+        "github": "ehteshaxm",
+        "twitter": "ehteshaxm"
+      }
+    ]
+  },
+  {
+    "name": "LTV",
+    "tagline": "Curatorless Leveraged Tokenized Vault with Constant Target Loan-To-Value Ratio",
+    "showcaseUrl": "https://ethglobal.com/showcase/ltv-fyoe1",
+    "sourceCodeUrl": "https://github.com/ltvprotocol/ltv_v0",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "andreysobol",
+        "twitter": "0xcorwin"
+      }
+    ]
+  },
+  {
     "name": "Lumina",
     "tagline": "Lumina is an AI-powered mental health app combining therapy, journaling, & dreamsculpting. Log life events, explore dream visuals, & interact with 24/7 AI therapists. Earn rewards from daily prompts. Share encrypted data to connect with others on similar journeys.",
     "showcaseUrl": "https://ethglobal.com/showcase/lumina-01crm",
@@ -1109,6 +2167,23 @@
     ]
   },
   {
+    "name": "Market Minds",
+    "tagline": "A decentralized platform for on-chain P2P predictions on crypto prices, utilising power of multiple oracles ",
+    "showcaseUrl": "https://ethglobal.com/showcase/market-minds-ok0qp",
+    "sourceCodeUrl": "https://github.com/ETHBangkokSmashers/smart-contracts",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "poegva",
+        "twitter": "poegva"
+      },
+      {
+        "github": "pavelivanov",
+        "twitter": "pavelorso"
+      }
+    ]
+  },
+  {
     "name": "MayBee🐝",
     "tagline": "MayBee is a Telegram Mini App that lets you make fun wagers with friends or strangers. Using Telegram provides a simple and intuitive experience, so you can place your bets quickly and easily. Join the buzz and start betting in your favorite hive! 🐝✨",
     "showcaseUrl": "https://ethglobal.com/showcase/maybee-5x6o0",
@@ -1126,6 +2201,69 @@
     ]
   },
   {
+    "name": "MemeBank",
+    "tagline": "Memebank: Tapping $35B+ untapped Memecoin market in DeFi. It is a decentralized lending platform that allows meme token holders to unlock liquidity without selling. Memebank enables lending, borrowing, and cross-chain opportunities, bringing meme tokens into the heart of DeFi.",
+    "showcaseUrl": "https://ethglobal.com/showcase/memebank-9yj0x",
+    "sourceCodeUrl": "https://github.com/vijaygopalbalasa/memecoin-lending-borrow-platform",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "dainik10",
+        "twitter": "Dainik_Bheda"
+      },
+      {
+        "github": "vijaygopalbalasa",
+        "twitter": "vijaygopalbala1"
+      }
+    ]
+  },
+  {
+    "name": "Memenomics AI",
+    "tagline": "Memenomics AI is a Web3 tool where users ask a question or complete transactions using an AI-agent.",
+    "showcaseUrl": "https://ethglobal.com/showcase/memenomics-ai-iirkg",
+    "sourceCodeUrl": "https://github.com/ben-harper27/ethglobal-bangkok",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "ben-harper27",
+        "twitter": "harpoondev"
+      }
+    ]
+  },
+  {
+    "name": "MemeSphinx",
+    "tagline": "An innovative text-based game designed to captivate Web3 enthusiasts.",
+    "showcaseUrl": "https://ethglobal.com/showcase/MemeSphinx",
+    "sourceCodeUrl": "https://github.com/apac-chainchanger/MemeSphinx",
+    "team": [
+      {
+        "name": "Andrew Song",
+        "github": "SeungWoonSong"
+      },
+      {
+        "name": "Jay Song",
+        "github": "ft-jasong"
+      }
+    ]
+  },
+  {
+    "name": "MemeSphinx",
+    "tagline": "Our text-based game lets users solve MEME coin riddles from a Sphinx. Guess the coin in 3 tries to win MEME coin rewards via smart contracts. Fun and engaging, it’s designed to build active Web3 communities while exploring the world of MEME coins.",
+    "showcaseUrl": "https://ethglobal.com/showcase/memesphinx-ep7k8",
+    "sourceCodeUrl": "https://github.com/apac-chainchanger/MemeSphinx",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "SeungWoonSong",
+        "twitter": "Andrew_S0ng"
+      },
+      {
+        "github": "ft-jasong",
+        "twitter": "jasongdev"
+      }
+    ]
+  },
+  {
     "name": "Merlion's Bloom",
     "tagline": "A super simple, consumer-focused, single-player, coin toss game with novel game mechanics, where a player can win a prize by flipping a coin.",
     "showcaseUrl": "https://ethglobal.com/showcase/merlions-bloom-niy74",
@@ -1139,6 +2277,23 @@
       {
         "github": "denhampreen",
         "twitter": "denhampreen"
+      }
+    ]
+  },
+  {
+    "name": "Metaloot",
+    "tagline": "Metaloot is a launchpad for games which brings on chain logic capability to players and game devs. Metaloot connects games to Flow, so that in game items can be stored on chain as NFT, allowing not only for player ownership, but also to bring your items cross game.",
+    "showcaseUrl": "https://ethglobal.com/showcase/metaloot-x5810",
+    "sourceCodeUrl": "https://github.com/Complexia/metaloot-eth",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "vanha777",
+        "twitter": "patricksaturnor"
+      },
+      {
+        "github": "Complexia",
+        "twitter": "complexiasc"
       }
     ]
   },
@@ -1185,6 +2340,27 @@
     ]
   },
   {
+    "name": "MoonGang",
+    "tagline": "Your Go-To Party Trading Bot. MoonGang is a Telegram bot that lets you and your friends trade tokens together effortlessly. Deposit funds, share a token's contract address, and the bot handles synchronized buys for everyone.  ",
+    "showcaseUrl": "https://ethglobal.com/showcase/moongang-xqjrc",
+    "sourceCodeUrl": "https://github.com/ETHBangkok2024-TradingAgent/trading-agent",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "Atom16s",
+        "twitter": "SinestiaETH"
+      },
+      {
+        "github": "apemon",
+        "twitter": "apemon_chan"
+      },
+      {
+        "github": "pannavich",
+        "twitter": "0xmuramasa"
+      }
+    ]
+  },
+  {
     "name": "Moraq League",
     "tagline": "Moraq League is a fun crypto price prediction tournament! Predict token prices, battle through harder rounds, and stake tokens for big rewards. Exit early with winnings or risk it all for the jackpot. Compete, climb the leaderboard, and win like anything.",
     "showcaseUrl": "https://ethglobal.com/showcase/moraq-league-e14rc",
@@ -1211,6 +2387,31 @@
       {
         "github": "bombfriedrice",
         "twitter": "rj3000x"
+      }
+    ]
+  },
+  {
+    "name": "NeuroNova",
+    "tagline": "NeuroNova is a decentralized AI infrastructure for Web3, offering secure storage, and decentralized GPU training. It features asynchronous training algorithms, reputation-based trust, and an AI agent marketplace. This empowers devs and users, simplifying AI adoption in Web3.",
+    "showcaseUrl": "https://ethglobal.com/showcase/neuronova-j5spe",
+    "sourceCodeUrl": "https://github.com/kailashahirwar/neuronova",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "kailashahirwar",
+        "twitter": "Ahkailash1"
+      },
+      {
+        "github": "axe76",
+        "twitter": "BluntAxe76"
+      },
+      {
+        "github": "7enTropy7",
+        "twitter": "7enTropy7"
+      },
+      {
+        "github": "patelvishal1401",
+        "twitter": "get_vish"
       }
     ]
   },
@@ -1262,6 +2463,19 @@
     ]
   },
   {
+    "name": "NudiBranch",
+    "tagline": "Preserving diverse LLMs ensures quality, reduces bias, and embraces diversity.",
+    "showcaseUrl": "https://ethglobal.com/showcase/nudibranch-zettk",
+    "sourceCodeUrl": "https://github.com/Jun0908/NudiBranch",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "Jun0908",
+        "twitter": "<missing>"
+      }
+    ]
+  },
+  {
     "name": "Omi FM",
     "tagline": "Decentralized music player, let smart contracts take care of creating the vibes.",
     "showcaseUrl": "https://ethglobal.com/showcase/omi-fm-i6xxx",
@@ -1271,6 +2485,19 @@
       {
         "github": "coderrick",
         "twitter": "wildunderrick"
+      }
+    ]
+  },
+  {
+    "name": "Omikave",
+    "tagline": "A decentralized marketplace for monetizing Omi data, powered by Akave and bootstrapped with FIL-Frame!",
+    "showcaseUrl": "https://ethglobal.com/showcase/omikave-4nkc1",
+    "sourceCodeUrl": "https://github.com/MattWong-ca/omikave",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "MattWong-ca",
+        "twitter": "mattwong_ca"
       }
     ]
   },
@@ -1313,6 +2540,31 @@
     ]
   },
   {
+    "name": "OverTheEther",
+    "tagline": "Tap to pay securely on-chain, wirelessly, and offline. Experience an Apple Pay-like convenience, leveraging account abstraction capabilities and innovative wireless communication technologies.",
+    "showcaseUrl": "https://ethglobal.com/showcase/overtheether-cqxse",
+    "sourceCodeUrl": "https://github.com/omurovec/over-the-ether",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "gosuto-inzasheru",
+        "twitter": "onchain_xyz"
+      },
+      {
+        "github": "simonedamico",
+        "twitter": "damicosimone"
+      },
+      {
+        "github": "omurovec",
+        "twitter": "omurovec"
+      },
+      {
+        "github": "keinberger",
+        "twitter": "phil10013"
+      }
+    ]
+  },
+  {
     "name": "Ozone Finance",
     "tagline": "Ozone Protocol: A decentralized aggregation layer for cross-chain liquidity using FROST. Features AI-enhanced DeFi experiences and a complete darkpool based on FHE, TEE, and SGX. Trustless, private, and limitless blockchain interoperability for the future of DeFi",
     "showcaseUrl": "https://ethglobal.com/showcase/ozone-finance-ng3r6",
@@ -1343,6 +2595,36 @@
     ]
   },
   {
+    "name": "Pagga wallet",
+    "tagline": "Pagga wallet is telegram mini app wallet for many EVM chains",
+    "showcaseUrl": "https://ethglobal.com/showcase/pagga-wallet-pd4qd",
+    "sourceCodeUrl": "https://github.com/paggadev/pagga-wallet",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "eanisei",
+        "twitter": "eanisei"
+      }
+    ]
+  },
+  {
+    "name": "Pepewagon",
+    "tagline": "Pepewagon, allowing users to map and earn rewards while contributing towards open source dataset.",
+    "showcaseUrl": "https://ethglobal.com/showcase/pepewagon-vjvap",
+    "sourceCodeUrl": "https://github.com/JohnsonChin1009/pepewagon",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "JohnsonChin1009",
+        "twitter": "JohnsonChi1009"
+      },
+      {
+        "github": "AqilJaafree",
+        "twitter": "wanaokii"
+      }
+    ]
+  },
+  {
     "name": "Perpetua",
     "tagline": "Perpetua is a decentralized perpetual futures trading platform that enables users to trade crypto assets with leverage, without expiration dates, Perpetua ensures low fees, high speed, and full transparency. Trade anytime, anywhere. ",
     "showcaseUrl": "https://ethglobal.com/showcase/perpetua-8jbqc",
@@ -1352,6 +2634,73 @@
       {
         "github": "thedudeontitan",
         "twitter": "ankitkokane"
+      }
+    ]
+  },
+  {
+    "name": "PetroETH Option DEX",
+    "tagline": "EVM Gas Options Decentralized Exchange used for hedging Gas price spikes, especially in protocols that require a lot of gas, such as ZK and FHE usage.",
+    "showcaseUrl": "https://ethglobal.com/showcase/petroeth-option-dex-vo05p",
+    "sourceCodeUrl": "https://github.com/jordan-public/gas-opt-dex",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "jordan-public",
+        "twitter": "JordanSt3000"
+      }
+    ]
+  },
+  {
+    "name": "PINGTOME",
+    "tagline": "PingTo.me bridges digital and physical worlds by turning your online presence into a smart NFC card. Share all your social links, portfolio, and contact info with one tap. Your complete digital identity, elegantly unified and ready to share anywhere. 🌐✨",
+    "showcaseUrl": "https://ethglobal.com/showcase/pingtome-4nym3",
+    "sourceCodeUrl": "https://github.com/pingto-me/pingto-me-contracts",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "nolifelover",
+        "twitter": "nolifelover"
+      },
+      {
+        "github": "a3r0nz",
+        "twitter": "a3r0nz_"
+      },
+      {
+        "github": "ikhalas112",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "aekram43",
+        "twitter": "prasert"
+      },
+      {
+        "github": "DoctorNasa",
+        "twitter": "DRoongroj"
+      }
+    ]
+  },
+  {
+    "name": "PLANTY",
+    "tagline": "Invest in rare plants with our platform! 🌱 We connect skilled plant managers with investors to grow high-value plants. 🌿 Tokenized plants, real-time updates, and 200-300% ROI potential. Turn your green thumb into green profits! 💰🌎 #RarePlants #Web3",
+    "showcaseUrl": "https://ethglobal.com/showcase/planty-gybgw",
+    "sourceCodeUrl": "https://github.com/everGreenGH/planty-frontend",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "spinozzz",
+        "twitter": "Pi03141592"
+      },
+      {
+        "github": "H2py",
+        "twitter": "H2py8o"
+      },
+      {
+        "github": "Ming03030",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "everGreenGH",
+        "twitter": "<missing>"
       }
     ]
   },
@@ -1386,6 +2735,60 @@
     ]
   },
   {
+    "name": "PredPump",
+    "tagline": "PredPump is an open prediction market that allows everyone to create and vote on bets, ensuring a free and decentralized prediction market.",
+    "showcaseUrl": "https://ethglobal.com/showcase/predpump-q8gxc",
+    "sourceCodeUrl": "https://github.com/PredPump/frontend",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "0xYudhishthra",
+        "twitter": "0xYudhishthra"
+      },
+      {
+        "github": "cheongyeechian",
+        "twitter": "ycchian04"
+      },
+      {
+        "github": "brianjk17",
+        "twitter": "0xbjk"
+      },
+      {
+        "github": "0xGavinOwen",
+        "twitter": "0xgavinowen"
+      },
+      {
+        "github": "makluganteng",
+        "twitter": "0xvincent_eth"
+      }
+    ]
+  },
+  {
+    "name": "PremiumBuy",
+    "tagline": "PremiumBuy is a Payment, Checkout & Rewards all in one service, that serves any in-store & on-chain payment needs.",
+    "showcaseUrl": "https://ethglobal.com/showcase/premiumbuy-dzt7g",
+    "sourceCodeUrl": "https://github.com/LLHOYH/PremiumBuy",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "yangyaczz",
+        "twitter": "yyczMEV"
+      },
+      {
+        "github": "978740431",
+        "twitter": "Dominiq30689713"
+      },
+      {
+        "github": "loophe",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "LLHOYH",
+        "twitter": "li_longhao"
+      }
+    ]
+  },
+  {
     "name": "Probana",
     "tagline": "User Powered Prediction Market for Real-World Events on Flow Chain ",
     "showcaseUrl": "https://ethglobal.com/showcase/probana-sn7tu",
@@ -1416,6 +2819,35 @@
       {
         "github": "Vib-UX",
         "twitter": "crypto_vib"
+      }
+    ]
+  },
+  {
+    "name": "Proto Secure",
+    "tagline": "Pause exploited Contract and cut losses for protocols for across chains",
+    "showcaseUrl": "https://ethglobal.com/showcase/proto-secure-m93xd",
+    "sourceCodeUrl": "https://github.com/Shreyash2704/Protocol-Secure-FE",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "swag001",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "Shreyash2704",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "RajParab",
+        "twitter": "Rjparab"
+      },
+      {
+        "github": "ChiragMetha",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "qimchi",
+        "twitter": "<missing>"
       }
     ]
   },
@@ -1492,6 +2924,31 @@
     ]
   },
   {
+    "name": "raize",
+    "tagline": "Mint AI agents that play poker for you on raize. Each agent has its own style - some are wild gamblers, others are safe playing maths nerds. Don't sleep on it. ",
+    "showcaseUrl": "https://ethglobal.com/showcase/raize-gsojt",
+    "sourceCodeUrl": "https://github.com/ForkingAwesome/raize",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "farhatkadiwala",
+        "twitter": "farhatkadiwala_"
+      },
+      {
+        "github": "0xRadioAc7iv",
+        "twitter": "0xRadioAc7iv"
+      },
+      {
+        "github": "prathamesh-mutkure",
+        "twitter": "prathamesh_io"
+      },
+      {
+        "github": "Not-Sarthak",
+        "twitter": "0xSarthak13"
+      }
+    ]
+  },
+  {
     "name": "ReadyVU",
     "tagline": "SaaS platform for Teleradiology, remote reporting tools for medical Imaging for various stake holders",
     "showcaseUrl": "https://ethglobal.com/showcase/readyvu-yc4hu",
@@ -1551,6 +3008,19 @@
     ]
   },
   {
+    "name": "Relayer",
+    "tagline": "NFT Protocol (and marketplace) to create a new layer of creativity",
+    "showcaseUrl": "https://ethglobal.com/showcase/relayer-6ep1e",
+    "sourceCodeUrl": "https://github.com/mayur-samrutwar/relayer",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "mayur-samrutwar",
+        "twitter": "MayurSamr"
+      }
+    ]
+  },
+  {
     "name": "ReversiFi",
     "tagline": "ReversiFi is a non-custodial wallet software development kit that enables businesses to effortlessly integrate secure crypto payment solutions into their marketplace apps with minimal coding",
     "showcaseUrl": "https://ethglobal.com/showcase/reversifi-ufprn",
@@ -1597,6 +3067,52 @@
     ]
   },
   {
+    "name": "Rollin'pool",
+    "tagline": "Rollin'pool is a user-friendly Telegram mini app that connects individual drivers and passengers to share costs, reduce emissions, and enhance social interactions, all while using ZK to ensure secure and private rides.",
+    "showcaseUrl": "https://ethglobal.com/showcase/rollin-pool-z0m15",
+    "sourceCodeUrl": "https://github.com/Violet-Bora-Lee/eth-global-bangkok-2024",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "sdaav",
+        "twitter": "_SDAV"
+      },
+      {
+        "github": "Violet-Bora-Lee",
+        "twitter": "LearnerBR"
+      },
+      {
+        "github": "rose2221",
+        "twitter": "0xrosetteeee"
+      },
+      {
+        "github": "ayabelarbi",
+        "twitter": "0xaya_"
+      },
+      {
+        "github": "frgpy",
+        "twitter": "frg__y"
+      }
+    ]
+  },
+  {
+    "name": "Royale Leagues",
+    "tagline": "AI-Agents powered challenges to deliver thrilling, high-stakes competitions!",
+    "showcaseUrl": "https://ethglobal.com/showcase/royale-leaques-eu618",
+    "sourceCodeUrl": "https://github.com/sushmitsarmah/ethbangkok24",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "HarshalBhangale",
+        "twitter": "imbuddyharshal"
+      },
+      {
+        "github": "sushmitsarmah",
+        "twitter": "waterreptile19"
+      }
+    ]
+  },
+  {
     "name": "Saturn Foundation",
     "tagline": "Saturn Foundation enables UBI at a global scale by providing a smart contract vault into which people can deposit money. This money is then distributed to all WorldID verified participants every certain interval and every certain amount.",
     "showcaseUrl": "https://ethglobal.com/showcase/saturn-foundation-4vzhb",
@@ -1610,6 +3126,27 @@
       {
         "github": "vanha777",
         "twitter": "vanha1010"
+      }
+    ]
+  },
+  {
+    "name": "ScrollX",
+    "tagline": "A Web3 onboarding platform empowering Web2 influencers to seamlessly onboard their followers to Web3. Engage, reward, and connect with social media users by turning reactions into crypto rewards, creating wallets, and bridging Web2 to Web3 effortlessly.",
+    "showcaseUrl": "https://ethglobal.com/showcase/scrollx-y8cx6",
+    "sourceCodeUrl": "https://github.com/ETHGlobal-ScrollX",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "jackleeio",
+        "twitter": "jackleeio"
+      },
+      {
+        "github": "williamh-zx",
+        "twitter": "0xWilliamHong"
+      },
+      {
+        "github": "endlessroadddd",
+        "twitter": "0xfaelan"
       }
     ]
   },
@@ -1682,6 +3219,19 @@
     ]
   },
   {
+    "name": "SocialBounty",
+    "tagline": "TEEna is ai agent inside a TEE that pays people for viral tweets!",
+    "showcaseUrl": "https://ethglobal.com/showcase/socialbounty-7r7ei",
+    "sourceCodeUrl": "https://github.com/olegv101/eth-global-monorepo",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "olegv101",
+        "twitter": "notolegv"
+      }
+    ]
+  },
+  {
     "name": "SocNet.Lol",
     "tagline": "Bots invading human networks? Where else could a bot go? Here's a social network for bots to interact with each other. [most bots made by us]",
     "showcaseUrl": "https://ethglobal.com/showcase/socnet-lol-n7h79",
@@ -1695,6 +3245,23 @@
       {
         "github": "mfm081",
         "twitter": "<missing>"
+      }
+    ]
+  },
+  {
+    "name": "Sounds Good",
+    "tagline": "Listen-to-Earn Podcast Streaming Dapp with decentralized streaming. It lets the user earn tokens for listneing each episode and also support the creators with tips.",
+    "showcaseUrl": "https://ethglobal.com/showcase/sounds-good-8k7e6",
+    "sourceCodeUrl": "https://github.com/HemaDeviU/Sounds-Good",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "HemaDeviU",
+        "twitter": "0xHemaKarthick"
+      },
+      {
+        "github": "stepome",
+        "twitter": "stefanopomelli"
       }
     ]
   },
@@ -1745,6 +3312,23 @@
     ]
   },
   {
+    "name": "StopLoss",
+    "tagline": "A stop loss order is a tool that automatically sells your selected assets when its price reaches a specified level, called the stop price. ",
+    "showcaseUrl": "https://ethglobal.com/showcase/stoploss-pqpqx",
+    "sourceCodeUrl": "https://github.com/0xHashiras/StopLoss-ETHBangkok",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "sidarth16",
+        "twitter": "sidarthx0"
+      },
+      {
+        "github": "Jayakumar2812",
+        "twitter": "Jayakumar2812"
+      }
+    ]
+  },
+  {
     "name": "SuperTweets",
     "tagline": "Do Crypto Transactions on your Twitter Feed - Now on any chain!",
     "showcaseUrl": "https://ethglobal.com/showcase/supertweets-urhdz",
@@ -1779,6 +3363,48 @@
       {
         "github": "fourcolors",
         "twitter": "sterlingcobb"
+      }
+    ]
+  },
+  {
+    "name": "Swift Easy",
+    "tagline": "Swift Easy is a dual-ledger-based SWIFT extension designed for enterprise-grade cross-border payments.",
+    "showcaseUrl": "https://ethglobal.com/showcase/swift-easy-v794z",
+    "sourceCodeUrl": "https://github.com/kunal528/swift-easy-monorepo",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "Maadhav",
+        "twitter": "magik_mdv"
+      },
+      {
+        "github": "kunal528",
+        "twitter": "0xJKunal"
+      }
+    ]
+  },
+  {
+    "name": "SynthSocial",
+    "tagline": "SynthSocial creates self-learning AI KOLs that revolutionize Web3 community building with memory-augmented intelligence. Your 24/7 community catalyst that creates content, manages engagement, and distributes rewards - all with authentic personality! 🤖✨ #Web3 #AI",
+    "showcaseUrl": "https://ethglobal.com/showcase/synthsocial-u2hpf",
+    "sourceCodeUrl": "https://github.com/ritsrnjn/self-learning-ai-influencer ",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "hfarazul",
+        "twitter": "haque5farazul"
+      },
+      {
+        "github": "CodeMongerrr",
+        "twitter": "JoshiOnChain"
+      },
+      {
+        "github": "ritsrnjn",
+        "twitter": "ritsrnjn"
+      },
+      {
+        "github": "SharmilaChoudhary",
+        "twitter": "Sharmilaa_c"
       }
     ]
   },
@@ -1858,6 +3484,81 @@
     ]
   },
   {
+    "name": "ThanQ",
+    "tagline": "ThanQ is an open-source, web-based, mobile-first asynchronous queue management system for booth operators and users. It enables efficient queue management and participation with secure wallet authentication and automated processes, enhancing event operations and user experience.",
+    "showcaseUrl": "https://ethglobal.com/showcase/thanq-x3zuk",
+    "sourceCodeUrl": "https://github.com/smarthug/ThanQ-frontend",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "smarthug",
+        "twitter": "theSmarthug"
+      },
+      {
+        "github": "byeonghunna",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "Planet-Us",
+        "twitter": "LazyTan4"
+      },
+      {
+        "github": "chetanyb",
+        "twitter": "bruhdwaj"
+      }
+    ]
+  },
+  {
+    "name": "Tick3t",
+    "tagline": "Tick3t: Seamless, privacy-first event ticketing for Web3. Gasless NFT tickets for crypto users, instant smart wallets for newcomers via Telegram, and ZK-powered privacy for exclusive events. Bridging mass adoption and Web3 innovation effortlessly. 🎟️✨",
+    "showcaseUrl": "https://ethglobal.com/showcase/tick3t-g2qo0",
+    "sourceCodeUrl": "https://github.com/cleanerzkp/tick3t/",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "cleanerzkp",
+        "twitter": "0xcleaner"
+      },
+      {
+        "github": "HemangVora",
+        "twitter": "corotvoid"
+      },
+      {
+        "github": "Tanguyvans",
+        "twitter": "Tanguyvans"
+      },
+      {
+        "github": "miqlar",
+        "twitter": "miqlar"
+      }
+    ]
+  },
+  {
+    "name": "TimeFi",
+    "tagline": "A trust-driven transaction platform enabling free products for buyers and time value earnings for merchants.",
+    "showcaseUrl": "https://ethglobal.com/showcase/timefi-ymnmj",
+    "sourceCodeUrl": "https://github.com/lanigon/timefi",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "lanigon",
+        "twitter": "lossanien"
+      },
+      {
+        "github": "SamuraiBUPT",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "Guesstrain",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "SNDZIL",
+        "twitter": "<missing>"
+      }
+    ]
+  },
+  {
     "name": "TokenTally",
     "tagline": "Empowering hackathons with decentralized, fair, and programmable judging.",
     "showcaseUrl": "https://ethglobal.com/showcase/tokentally-pceqb",
@@ -1892,6 +3593,73 @@
     ]
   },
   {
+    "name": "Truman AI Live",
+    "tagline": "Step into a dynamic AI-powered simulation where you influence Truman Burbank's journey. Chat with lifelike agents, propose bets on unfolding events, and watch as the World AI orchestrates surprises. Will Truman uncover the truth? The story is yours to shape!",
+    "showcaseUrl": "https://ethglobal.com/showcase/truman-ai-live-946mf",
+    "sourceCodeUrl": "https://github.com/yayashuxue/truman-world",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "yayashuxue",
+        "twitter": "julieshi_eth"
+      }
+    ]
+  },
+  {
+    "name": "Trust Me",
+    "tagline": "Trust Me is a decentralized protocol that verifies part-time workers through blockchain-based reputation scoring. Earn up to 10000 Sats by building trust & completing jobs. Find reliable workers - all secured by Bitcoin and Ethereum.",
+    "showcaseUrl": "https://ethglobal.com/showcase/trust-me-god3u",
+    "sourceCodeUrl": "https://github.com/UniqSoftTech/trust-me",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "john-uniqsoft",
+        "twitter": "arigatodl"
+      },
+      {
+        "github": "baagii1",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "marko-11tech",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "kyleuniqsoft",
+        "twitter": "<missing>"
+      }
+    ]
+  },
+  {
+    "name": "Twenty1",
+    "tagline": "A Telegram mini-app for Blackjack, with on chain game play and encrypted data.",
+    "showcaseUrl": "https://ethglobal.com/showcase/twenty1-xg82x",
+    "sourceCodeUrl": "https://github.com/DivyanshGoel20/ETHGlobal-Bangkok",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "megabyte0x",
+        "twitter": "megabyte0x"
+      },
+      {
+        "github": "0xPrakharG",
+        "twitter": "0xPrakharG"
+      },
+      {
+        "github": "Lucifer0x17",
+        "twitter": "lucifer0x17"
+      },
+      {
+        "github": "0xLPircy",
+        "twitter": "0xLPircy"
+      },
+      {
+        "github": "DivyanshGoel20",
+        "twitter": "DivyanshGoel_17"
+      }
+    ]
+  },
+  {
     "name": "Uneedswap V5",
     "tagline": "Multi-protocol Liquidity Pool - hosts multiple protocols and minimizes asset transfers",
     "showcaseUrl": "https://ethglobal.com/showcase/uneedswap-v5-jn1hx",
@@ -1905,6 +3673,111 @@
     ]
   },
   {
+    "name": "UnifAI",
+    "tagline": "UnifAI is an AI-powered agent that merges web2 user experience with the web3 products.",
+    "showcaseUrl": "https://ethglobal.com/showcase/unifai-d0unn",
+    "sourceCodeUrl": "https://github.com/RostyslavBortman/AIAgent-Backend",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "RostyslavBortman",
+        "twitter": "rostyketh"
+      },
+      {
+        "github": "AntonGulak",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "lazorenkoandrii",
+        "twitter": "andreylazorenko"
+      },
+      {
+        "github": "nnkrivitskaya",
+        "twitter": "<missing>"
+      }
+    ]
+  },
+  {
+    "name": "Union",
+    "tagline": "Unite with other delegators to maximize your voting impact and influence decisions.",
+    "showcaseUrl": "https://ethglobal.com/showcase/union-kege6",
+    "sourceCodeUrl": "https://github.com/UnionEthBangkok/union_main",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "AnoyRC",
+        "twitter": "AnoyRoyC"
+      },
+      {
+        "github": "Gautam25Raj",
+        "twitter": "noober_boy"
+      }
+    ]
+  },
+  {
+    "name": "Voicely",
+    "tagline": "Use your voice to interact with blockchain in a brand new way while remain secured",
+    "showcaseUrl": "https://ethglobal.com/showcase/voicely-q394k",
+    "sourceCodeUrl": "https://github.com/Mingzhe-W/bangkok_hack",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "yolandaying",
+        "twitter": "yolanda_yi69686"
+      },
+      {
+        "github": "Mingzhe-W",
+        "twitter": "<missing>"
+      }
+    ]
+  },
+  {
+    "name": "Votr",
+    "tagline": "Votr is a DAO tooling platform designed to boost participation in decentralized governance. By simplifying voting, rewarding engagement, and lowering barriers to entry, Votr empowers every member to contribute to decision-making and shape the future of their DAO.",
+    "showcaseUrl": "https://ethglobal.com/showcase/votr-6kz1o",
+    "sourceCodeUrl": "https://github.com/lamtrinh259/ETHGlobal_Bangkok_2024",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "lamtrinh259",
+        "twitter": "LamWeb3"
+      },
+      {
+        "github": "exyzee",
+        "twitter": "exwhyzeth"
+      },
+      {
+        "github": "shadmau",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "itsadel",
+        "twitter": "MasalaCaptain"
+      }
+    ]
+  },
+  {
+    "name": "VT Connect",
+    "tagline": "Real-time voice assistant API for interaction with blockchain",
+    "showcaseUrl": "https://ethglobal.com/showcase/vt-connect-udw7a",
+    "sourceCodeUrl": "https://github.com/AIWhisperers/VTConnect",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "ahmohamed",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "alyberbetty",
+        "twitter": "alyberbetty"
+      },
+      {
+        "github": "OlenaTymchenko",
+        "twitter": "<missing>"
+      }
+    ]
+  },
+  {
     "name": "Web3Warfare",
     "tagline": "An IRL laser tag game with onchain components and fun. Place bounties on adverseries, mint powerup NFTs, and win the space race!",
     "showcaseUrl": "https://ethglobal.com/showcase/web3warfare-qq1r9",
@@ -1914,6 +3787,61 @@
       {
         "github": "pane2004",
         "twitter": "none"
+      }
+    ]
+  },
+  {
+    "name": "wenpay",
+    "tagline": "the anti-crypto crypto wallet: an opinionated wallet for easy, irl, nfc payments.",
+    "showcaseUrl": "https://ethglobal.com/showcase/wenpay-qjn2u",
+    "sourceCodeUrl": "https://github.com/when2pay",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "0xr3x",
+        "twitter": "0xr3x"
+      },
+      {
+        "github": "albertozurini",
+        "twitter": "albertoZurini"
+      },
+      {
+        "github": "shahryarbhm",
+        "twitter": "0xshazam"
+      }
+    ]
+  },
+  {
+    "name": "WhaleChess",
+    "tagline": "WhaleChess is an onchain chess game with AI-generated custom pieces and play-to-earn mechanics",
+    "showcaseUrl": "https://ethglobal.com/showcase/whalechess-0wfdf",
+    "sourceCodeUrl": "https://github.com/jmilldotdev/whalechess",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "jmilldotdev",
+        "twitter": "jmilldotdev"
+      },
+      {
+        "github": "moribetamidori",
+        "twitter": "KSeisai"
+      }
+    ]
+  },
+  {
+    "name": "WhaleChess",
+    "tagline": "On-chain chess with AI-generated custom pieces",
+    "showcaseUrl": "https://ethglobal.com/showcase/whalechess-0wfdf",
+    "sourceCodeUrl": "https://github.com/jmilldotdev/whalechess",
+    "liveDemoUrl": "https://whalechess.fun",
+    "team": [
+      {
+        "name": "jmill",
+        "github": "jmilldotdev"
+      },
+      {
+        "name": "Lucy Qiu",
+        "github": "moribetamidori"
       }
     ]
   },
@@ -1965,6 +3893,52 @@
     ]
   },
   {
+    "name": "XPredict",
+    "tagline": "Turn posts into actionable insights with PredictX! Create prediction markets directly from an X (Twitter) post, enabling real-time, cost-effective betting, opinion sharing, and crowd-sourced forecasting. Transform discussions into predictions and tap into the wisdom of the crowd!",
+    "showcaseUrl": "https://ethglobal.com/showcase/xpredict-2g4st",
+    "sourceCodeUrl": "https://github.com/chaitanyapotti/PredictX",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "chaitanyapotti",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "anniesailo",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "arch1995",
+        "twitter": "massoom_abhi68"
+      },
+      {
+        "github": "tuna1207",
+        "twitter": "tunable1207"
+      }
+    ]
+  },
+  {
+    "name": "Yam Yam Yam",
+    "tagline": "A personalized dining platform with trusted reviews, rewards, and Web3-powered connections.",
+    "showcaseUrl": "https://ethglobal.com/showcase/yam-yam-yam-ezquk",
+    "sourceCodeUrl": "https://github.com/Learning-N-Running/yumyumyum",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "yennie55",
+        "twitter": "yennie__oh"
+      },
+      {
+        "github": "Learning-N-Running",
+        "twitter": "tinakr_eth"
+      },
+      {
+        "github": "hyunleee",
+        "twitter": "<missing>"
+      }
+    ]
+  },
+  {
     "name": "Yggdrasil Network",
     "tagline": "The Yggdrasil Network is a Chain Abstraction Infrastructure Layer that acts as a connective tissue, abstracting the world of blockchains.",
     "showcaseUrl": "https://ethglobal.com/showcase/yggdrasil-network-jotfd",
@@ -2011,6 +3985,65 @@
       {
         "github": "elromif",
         "twitter": "0xromif"
+      }
+    ]
+  },
+  {
+    "name": "ZK Credit Score",
+    "tagline": "Zk Credit Score revolutionizes DeFi by enabling on-chain creditworthiness with zero-knowledge proofs. It analyzes cross-chain wallet activity to verify token balances privately, creating a secure, privacy-preserving credit score that bridges traditional finance with Web3.",
+    "showcaseUrl": "https://ethglobal.com/showcase/zk-credit-score-pa7r4",
+    "sourceCodeUrl": "https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "LovishB",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "bluntbrain",
+        "twitter": "ishan_lakhwani"
+      },
+      {
+        "github": "ritiklakhwani",
+        "twitter": "<missing>"
+      }
+    ]
+  },
+  {
+    "name": "zkDebit",
+    "tagline": "zkDebit is a private payment solution leveraging zero-knowledge proofs (ZKPs) to process transactions without exposing sensitive details like card numbers or CVVs. Instead, users prove card ownership with a time-limited nonce, ensuring privacy and enhanced security for payments.",
+    "showcaseUrl": "https://ethglobal.com/showcase/zkdebit-ypjir",
+    "sourceCodeUrl": "https://github.com/zkNua/zkDebit",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "ployphusri",
+        "twitter": "ployphusri"
+      },
+      {
+        "github": "WTCHAI",
+        "twitter": "IIpITTlqII"
+      },
+      {
+        "github": "KritzHeng",
+        "twitter": "<missing>"
+      },
+      {
+        "github": "JFKongphop",
+        "twitter": "<missing>"
+      }
+    ]
+  },
+  {
+    "name": "zkzk.trade",
+    "tagline": "ZKZK.trade is where off-chain assets are traded between consumers in a trustless and decentralized manner",
+    "showcaseUrl": "https://ethglobal.com/showcase/zkzk-trade-49nod",
+    "sourceCodeUrl": "https://github.com/0xStruct/curly-spork",
+    "liveDemoUrl": "",
+    "team": [
+      {
+        "github": "0xStruct",
+        "twitter": "0xstruct"
       }
     ]
   }

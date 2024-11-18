@@ -1,0 +1,13 @@
+name: EngagR
+tagline: >-
+  A  decentralised Social Ads Platform built in intersection of web2 and web3.
+  Marketers create campaigns, track performance, and optimize. Promoters earn
+  through unique links, driving clicks and conversions on there tweets and posts
+showcaseUrl: https://ethglobal.com/showcase/engagr-jn1sc
+sourceCodeUrl: https://github.com/mbcse/engagr
+liveDemoUrl: ''
+team:
+  - github: dipanshuraz
+    twitter: blockc_school
+  - github: mbcse
+    twitter: mbcse50

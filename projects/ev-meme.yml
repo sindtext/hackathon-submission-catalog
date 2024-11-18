@@ -1,0 +1,10 @@
+name: EVMeme
+tagline: ' A multichain meme coin launchpad enabling secure ERC-20 creation and fostering social engagement.'
+showcaseUrl: https://ethglobal.com/showcase/evmeme-8v96d
+sourceCodeUrl: https://github.com/izzetemredemir/evmeme
+liveDemoUrl: ''
+team:
+  - github: izzetemredemir
+    twitter: izzetemredemir
+  - github: karasakalmt
+    twitter: karasakalmt

@@ -1,0 +1,12 @@
+name: Market Minds
+tagline: >-
+  A decentralized platform for on-chain P2P predictions on crypto prices,
+  utilising power of multiple oracles 
+showcaseUrl: https://ethglobal.com/showcase/market-minds-ok0qp
+sourceCodeUrl: https://github.com/ETHBangkokSmashers/smart-contracts
+liveDemoUrl: ''
+team:
+  - github: poegva
+    twitter: poegva
+  - github: pavelivanov
+    twitter: pavelorso

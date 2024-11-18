@@ -1,0 +1,14 @@
+name: Gutenix
+tagline: >-
+  Building an open education ecosystem: Our open-source platform equips learners
+  with AI-driven active learning, smart assessments & automated open-ended
+  grading. Earn trustworthy certificates that work both on and off-chain.
+  Quality education, accessible & composable at scale. 🎓
+showcaseUrl: https://ethglobal.com/showcase/gutenix-fk87w
+sourceCodeUrl: https://github.com/y-pakorn/redacted
+liveDemoUrl: ''
+team:
+  - github: yoyoismee
+    twitter: 0xyoyoismee
+  - github: y-pakorn
+    twitter: yyyoisha

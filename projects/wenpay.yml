@@ -1,0 +1,14 @@
+name: wenpay
+tagline: >-
+  the anti-crypto crypto wallet: an opinionated wallet for easy, irl, nfc
+  payments.
+showcaseUrl: https://ethglobal.com/showcase/wenpay-qjn2u
+sourceCodeUrl: https://github.com/when2pay
+liveDemoUrl: ''
+team:
+  - github: 0xr3x
+    twitter: 0xr3x
+  - github: albertozurini
+    twitter: albertoZurini
+  - github: shahryarbhm
+    twitter: 0xshazam

@@ -1,0 +1,12 @@
+name: Commit
+tagline: Event app with staking mechanism for registrations in order prevent no showups
+showcaseUrl: https://ethglobal.com/showcase/commit-1ho5q
+sourceCodeUrl: https://github.com/Commit-by-ETH-Belgrade/dapp
+liveDemoUrl: ''
+team:
+  - github: develo-pera
+    twitter: 0xdevelopera
+  - github: milanpajovic
+    twitter: PajovicMilan
+  - github: viraj124
+    twitter: Viraz04

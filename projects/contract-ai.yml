@@ -1,0 +1,14 @@
+name: ContractAI
+tagline: >-
+  Contract AI: Write, compile, deploy, and interact with smart contracts
+  seamlessly. With AI-powered, chain-specific agents and an integrated
+  interaction tool, it's your one-stop platform for Solidity development. No
+  setup needed — just bring your ideas to life!
+showcaseUrl: https://ethglobal.com/showcase/contractai-enjba
+sourceCodeUrl: https://github.com/Bhavik-punmiya/eth-bangkok-2024
+liveDemoUrl: ''
+team:
+  - github: Bhavik-punmiya
+    twitter: bhavikpunmiya1
+  - github: shantanuSakpal
+    twitter: Shantanu_1405

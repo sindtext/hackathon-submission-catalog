@@ -1,0 +1,10 @@
+name: Omikave
+tagline: >-
+  A decentralized marketplace for monetizing Omi data, powered by Akave and
+  bootstrapped with FIL-Frame!
+showcaseUrl: https://ethglobal.com/showcase/omikave-4nkc1
+sourceCodeUrl: https://github.com/MattWong-ca/omikave
+liveDemoUrl: ''
+team:
+  - github: MattWong-ca
+    twitter: mattwong_ca

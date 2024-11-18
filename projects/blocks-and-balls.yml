@@ -1,0 +1,14 @@
+name: Blocks and Balls
+tagline: >-
+  A dynamic Web3 two-player card game where you compete against an AI opponent
+  with seamless on-chain gameplay. Enjoy minimal transactions, secure
+  randomness, and transparent AI actions powered by Trusted Execution
+  Environments (TEE).
+showcaseUrl: https://ethglobal.com/showcase/blocks-and-balls-ifjxv
+sourceCodeUrl: https://github.com/RomarioKavin1/ZoroFootball
+liveDemoUrl: ''
+team:
+  - github: RomarioKavin1
+    twitter: RomarioKavin1
+  - github: Abijesh
+    twitter: GregAbijesh

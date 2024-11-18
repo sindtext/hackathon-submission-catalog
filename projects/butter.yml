@@ -1,16 +1,15 @@
-name: Butter  # required
-tagline: Making your event experience as smooth as BUTTER # optional
-showcaseUrl: https://butter-ethglobal.vercel.app/  # required
-sourceCodeUrl: https://github.com/ShaunLim08/Vitalik-Butterin # required
-liveDemoUrl: https://ethglobal.com/showcase/butter-x6q06  # optional
-social: # optional
-  x: ShaunRiser
-  github: ShaunLim08
-team: # optional
-  -
-    name: Cody Liew
-    github: codyy6
-    name: Shi Ying
-    github: shiying0
-    name: Shaun Lim
-    github: ShaunLim08
+name: Butter
+tagline: >-
+  "Butter optimizes side events on-chain with AI recommendations, token staking,
+  and gamified reputations. Discover, register, and engage seamlessly while
+  building trust and accountability. 🧈"
+showcaseUrl: https://ethglobal.com/showcase/butter-x6q06
+sourceCodeUrl: https://github.com/ShaunLim08/Vitalik-Butterin
+liveDemoUrl: ''
+team:
+  - github: ShaunLim08
+    twitter: ShaunRiser
+  - github: shiying0
+    twitter: shiying0818
+  - github: codyy6
+    twitter: cody_liew

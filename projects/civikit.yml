@@ -1,0 +1,16 @@
+name: Civikit
+tagline: >-
+  CiviKit: A modular governance laboratory built on Scaffold-ETH-2. Create
+  custom DAOs and grant systems by mixing governance primitives, from tunable
+  quadratic funding to reputation-weighted voting. Experiment, deploy, and
+  evolve democratic systems faster.
+showcaseUrl: https://ethglobal.com/showcase/civikit-07qs7
+sourceCodeUrl: https://github.com/Novus-Initium/Civikit
+liveDemoUrl: ''
+team:
+  - github: HashSlayer
+    twitter: Mewkail
+  - github: saurabh
+    twitter: 0xbuildooor
+  - github: 0xJade
+    twitter: tirisanna

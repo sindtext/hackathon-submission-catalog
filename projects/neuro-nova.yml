@@ -1,0 +1,18 @@
+name: NeuroNova
+tagline: >-
+  NeuroNova is a decentralized AI infrastructure for Web3, offering secure
+  storage, and decentralized GPU training. It features asynchronous training
+  algorithms, reputation-based trust, and an AI agent marketplace. This empowers
+  devs and users, simplifying AI adoption in Web3.
+showcaseUrl: https://ethglobal.com/showcase/neuronova-j5spe
+sourceCodeUrl: https://github.com/kailashahirwar/neuronova
+liveDemoUrl: ''
+team:
+  - github: kailashahirwar
+    twitter: Ahkailash1
+  - github: axe76
+    twitter: BluntAxe76
+  - github: 7enTropy7
+    twitter: 7enTropy7
+  - github: patelvishal1401
+    twitter: get_vish

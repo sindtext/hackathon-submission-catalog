@@ -1,0 +1,14 @@
+name: FlappyNouns
+tagline: >-
+  A Nouns-Style FlappyBird-Like Telegram game deployed on Flow that gives u a
+  chance to navigate challenges and earn NFT as skins.
+showcaseUrl: https://ethglobal.com/showcase/flappynouns-hdmd9
+sourceCodeUrl: https://github.com/FlappyNouns/Client
+liveDemoUrl: ''
+team:
+  - github: FoeverA0
+    twitter: SunnySHEN15168
+  - github: Donnykk
+    twitter: <missing>
+  - github: kKAqua
+    twitter: kK_4qua

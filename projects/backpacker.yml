@@ -1,0 +1,20 @@
+name: Backpacker
+tagline: >-
+  Backpacker rewards travelers with tokens for sharing reviews, unlocking
+  exclusive travel deals while respecting privacy. Your insights train a
+  federated AI model to power trip recommendation, creating a place where every
+  shared experience helps others plan better journeys.
+showcaseUrl: https://ethglobal.com/showcase/backpacker-udm2g
+sourceCodeUrl: https://github.com/Risav03/backpacker
+liveDemoUrl: ''
+team:
+  - github: Risav03
+    twitter: Degeneer03
+  - github: BlackDeath1107
+    twitter: sengupta_soham
+  - github: SayakSarkar02
+    twitter: SayakSarkar02
+  - github: im-still-thinking
+    twitter: <missing>
+  - github: raihankhan-rk
+    twitter: raihankhan_rk

@@ -1,0 +1,12 @@
+name: StopLoss
+tagline: >-
+  A stop loss order is a tool that automatically sells your selected assets when
+  its price reaches a specified level, called the stop price. 
+showcaseUrl: https://ethglobal.com/showcase/stoploss-pqpqx
+sourceCodeUrl: https://github.com/0xHashiras/StopLoss-ETHBangkok
+liveDemoUrl: ''
+team:
+  - github: sidarth16
+    twitter: sidarthx0
+  - github: Jayakumar2812
+    twitter: Jayakumar2812

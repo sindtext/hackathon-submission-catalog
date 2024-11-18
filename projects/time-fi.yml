@@ -1,0 +1,16 @@
+name: TimeFi
+tagline: >-
+  A trust-driven transaction platform enabling free products for buyers and time
+  value earnings for merchants.
+showcaseUrl: https://ethglobal.com/showcase/timefi-ymnmj
+sourceCodeUrl: https://github.com/lanigon/timefi
+liveDemoUrl: ''
+team:
+  - github: lanigon
+    twitter: lossanien
+  - github: SamuraiBUPT
+    twitter: <missing>
+  - github: Guesstrain
+    twitter: <missing>
+  - github: SNDZIL
+    twitter: <missing>

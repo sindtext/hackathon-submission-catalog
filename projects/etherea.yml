@@ -1,0 +1,15 @@
+name: Etherea
+tagline: >-
+  Gamified learning platform designed to teach blockchain and Web3 concepts,
+  where users earn tokens with real-world value as they progress through
+  engaging educational content.
+showcaseUrl: https://ethglobal.com/showcase/etherea-5m5ru
+sourceCodeUrl: https://github.com/Junshen18/etherea-gamified-elearning
+liveDemoUrl: ''
+team:
+  - github: Junshen18
+    twitter: _Junshen18
+  - github: LingSiewWin
+    twitter: SiewwinL24603
+  - github: Hopplers
+    twitter: junian64

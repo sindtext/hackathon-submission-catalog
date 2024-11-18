@@ -1,0 +1,10 @@
+name: BlockPress
+tagline: >-
+  BlockPress is an open-source permissionless publishing platform which stores
+  reusable modular code and users content on-chain
+showcaseUrl: https://ethglobal.com/showcase/blockpress-xwejc
+sourceCodeUrl: https://github.com/jamesbachini/BlockPress
+liveDemoUrl: ''
+team:
+  - github: jamesbachini
+    twitter: james_bachini

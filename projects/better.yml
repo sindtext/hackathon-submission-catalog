@@ -1,14 +1,18 @@
-name: BETTER
+name: Better
 tagline: >-
-  Social Betting meets social good :)
-
-showcaseUrl: <missing>
+  Better is a DApp that combines the thrill of social betting with philanthropy.
+  Place fun wagers on events and donate winnings to charity, blending
+  entertainment with impact. Enjoy friendly competition while supporting causes
+  you care about. Bet, win, and give back!
+showcaseUrl: https://ethglobal.com/showcase/better-oehcf
 sourceCodeUrl: https://github.com/Nishu0/EthGlobal-Bangkok-Project
 liveDemoUrl: ''
 team:
+  - github: aryangodara
+    twitter: aryangodara03
   - github: 0xprinc
     twitter: 0xprinc
   - github: Nishu0
     twitter: itznishuu_
-  - github: AryanGodara
-    twitter: AryanGodara03
+  - github: QuantumAlphaCat
+    twitter: AlphaHouse158

@@ -1,0 +1,12 @@
+name: Truman AI Live
+tagline: >-
+  Step into a dynamic AI-powered simulation where you influence Truman Burbank's
+  journey. Chat with lifelike agents, propose bets on unfolding events, and
+  watch as the World AI orchestrates surprises. Will Truman uncover the truth?
+  The story is yours to shape!
+showcaseUrl: https://ethglobal.com/showcase/truman-ai-live-946mf
+sourceCodeUrl: https://github.com/yayashuxue/truman-world
+liveDemoUrl: ''
+team:
+  - github: yayashuxue
+    twitter: julieshi_eth

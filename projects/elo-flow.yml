@@ -1,0 +1,8 @@
+name: ELO Flow
+tagline: On-chain Poker Game using VRF on Flow with gasless transactions
+showcaseUrl: https://ethglobal.com/showcase/elo-flow-ceo8a
+sourceCodeUrl: https://github.com/marcuspang/eloflow
+liveDemoUrl: ''
+team:
+  - github: marcuspang
+    twitter: marcuspangeth

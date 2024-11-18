@@ -1,0 +1,15 @@
+name: Chain of Thrones
+tagline: >-
+  Chain of Thrones is an onchain strategic pvp wargame where players deploy
+  armies, negotiate collaboration, and battle for the first to control 3 of 5
+  castles.
+showcaseUrl: https://ethglobal.com/showcase/chain-of-thrones-qofbq
+sourceCodeUrl: https://github.com/timothyshen/EthBKK2024
+liveDemoUrl: ''
+team:
+  - github: Chloezhu010
+    twitter: chloe_zhux
+  - github: bowenyou
+    twitter: 0xbyyou
+  - github: timothyshen
+    twitter: timtimtim_eth

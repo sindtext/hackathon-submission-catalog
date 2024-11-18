@@ -1,0 +1,16 @@
+name: ScrollX
+tagline: >-
+  A Web3 onboarding platform empowering Web2 influencers to seamlessly onboard
+  their followers to Web3. Engage, reward, and connect with social media users
+  by turning reactions into crypto rewards, creating wallets, and bridging Web2
+  to Web3 effortlessly.
+showcaseUrl: https://ethglobal.com/showcase/scrollx-y8cx6
+sourceCodeUrl: https://github.com/ETHGlobal-ScrollX
+liveDemoUrl: ''
+team:
+  - github: jackleeio
+    twitter: jackleeio
+  - github: williamh-zx
+    twitter: 0xWilliamHong
+  - github: endlessroadddd
+    twitter: 0xfaelan

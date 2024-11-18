@@ -1,0 +1,12 @@
+name: Blinks
+tagline: >-
+  Traditional onchain transactions have been locked away in apps or complex
+  interfaces, making it significantly harder for people to use crypto products.
+  With Blinks or blockchain links, transactions can open up to anywhere on the
+  internet — using Iframes.
+showcaseUrl: https://ethglobal.com/showcase/blinks-e8q7k
+sourceCodeUrl: https://github.com/AllenAJ/Blinks
+liveDemoUrl: ''
+team:
+  - github: AllenAJ
+    twitter: allenjosephaj

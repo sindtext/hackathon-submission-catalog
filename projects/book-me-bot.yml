@@ -1,0 +1,14 @@
+name: BookMeBot
+tagline: >-
+  BookMeBot is a collaborative travel booking assistant designed for group
+  trips, booked onchain right in your group chat
+showcaseUrl: https://ethglobal.com/showcase/bookmebot-1awz4
+sourceCodeUrl: https://github.com/BookMeBot/book-me-bot
+liveDemoUrl: ''
+team:
+  - github: jennyg0
+    twitter: web3djen
+  - github: marissaposner
+    twitter: wizardofpos
+  - github: gfarrisi
+    twitter: elliefarrisi

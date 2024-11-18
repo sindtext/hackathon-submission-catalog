@@ -1,0 +1,18 @@
+name: zkDebit
+tagline: >-
+  zkDebit is a private payment solution leveraging zero-knowledge proofs (ZKPs)
+  to process transactions without exposing sensitive details like card numbers
+  or CVVs. Instead, users prove card ownership with a time-limited nonce,
+  ensuring privacy and enhanced security for payments.
+showcaseUrl: https://ethglobal.com/showcase/zkdebit-ypjir
+sourceCodeUrl: https://github.com/zkNua/zkDebit
+liveDemoUrl: ''
+team:
+  - github: ployphusri
+    twitter: ployphusri
+  - github: WTCHAI
+    twitter: IIpITTlqII
+  - github: KritzHeng
+    twitter: <missing>
+  - github: JFKongphop
+    twitter: <missing>

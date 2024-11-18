@@ -1,0 +1,18 @@
+name: PredPump
+tagline: >-
+  PredPump is an open prediction market that allows everyone to create and vote
+  on bets, ensuring a free and decentralized prediction market.
+showcaseUrl: https://ethglobal.com/showcase/predpump-q8gxc
+sourceCodeUrl: https://github.com/PredPump/frontend
+liveDemoUrl: ''
+team:
+  - github: 0xYudhishthra
+    twitter: 0xYudhishthra
+  - github: cheongyeechian
+    twitter: ycchian04
+  - github: brianjk17
+    twitter: 0xbjk
+  - github: 0xGavinOwen
+    twitter: 0xgavinowen
+  - github: makluganteng
+    twitter: 0xvincent_eth

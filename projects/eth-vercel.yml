@@ -1,0 +1,12 @@
+name: ETHVercel
+tagline: >-
+  Deploy sovereign applications with ZK-powered location validation, earning
+  Proof of Deployment tokens (ERC-5192). Build your on-chain deployment
+  reputation while maintaining granular access control in a collaborative
+  ecosystem.
+showcaseUrl: https://ethglobal.com/showcase/ethvercel-inezg
+sourceCodeUrl: https://github.com/dhananjaypai08/ETHVercel
+liveDemoUrl: ''
+team:
+  - github: dhananjaypai08
+    twitter: dhananj10181396

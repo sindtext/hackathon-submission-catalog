@@ -1,0 +1,20 @@
+name: PINGTOME
+tagline: >-
+  PingTo.me bridges digital and physical worlds by turning your online presence
+  into a smart NFC card. Share all your social links, portfolio, and contact
+  info with one tap. Your complete digital identity, elegantly unified and ready
+  to share anywhere. 🌐✨
+showcaseUrl: https://ethglobal.com/showcase/pingtome-4nym3
+sourceCodeUrl: https://github.com/pingto-me/pingto-me-contracts
+liveDemoUrl: ''
+team:
+  - github: nolifelover
+    twitter: nolifelover
+  - github: a3r0nz
+    twitter: a3r0nz_
+  - github: ikhalas112
+    twitter: <missing>
+  - github: aekram43
+    twitter: prasert
+  - github: DoctorNasa
+    twitter: DRoongroj

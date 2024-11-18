@@ -1,0 +1,14 @@
+name: Crypto.AI.SharkTank
+tagline: >-
+  🚀 CryptoSharkTank: Meet your AI-powered judging team! 🤖 Our 5 expert agents
+  evaluate crypto projects on Team, Tech, Tokenomics, Market, & Community,
+  saving VCs & hackathon judges time while helping teams refine their pitches.
+  Smarter decisions, sharper pitches! 🌟 
+showcaseUrl: https://ethglobal.com/showcase/crypto-ai-sharktank-ebbuw
+sourceCodeUrl: https://github.com/0xhatsume/CryptoAiSharkTank
+liveDemoUrl: ''
+team:
+  - github: 0xhatsume
+    twitter: 0xhatsume
+  - github: doukooo
+    twitter: <missing>

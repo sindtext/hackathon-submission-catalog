@@ -1,0 +1,16 @@
+name: MoonGang
+tagline: >-
+  Your Go-To Party Trading Bot. MoonGang is a Telegram bot that lets you and
+  your friends trade tokens together effortlessly. Deposit funds, share a
+  token's contract address, and the bot handles synchronized buys for
+  everyone.  
+showcaseUrl: https://ethglobal.com/showcase/moongang-xqjrc
+sourceCodeUrl: https://github.com/ETHBangkok2024-TradingAgent/trading-agent
+liveDemoUrl: ''
+team:
+  - github: Atom16s
+    twitter: SinestiaETH
+  - github: apemon
+    twitter: apemon_chan
+  - github: pannavich
+    twitter: 0xmuramasa

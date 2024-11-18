@@ -1,0 +1,8 @@
+name: LTV
+tagline: Curatorless Leveraged Tokenized Vault with Constant Target Loan-To-Value Ratio
+showcaseUrl: https://ethglobal.com/showcase/ltv-fyoe1
+sourceCodeUrl: https://github.com/ltvprotocol/ltv_v0
+liveDemoUrl: ''
+team:
+  - github: andreysobol
+    twitter: 0xcorwin

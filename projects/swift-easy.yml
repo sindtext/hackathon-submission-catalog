@@ -1,0 +1,12 @@
+name: Swift Easy
+tagline: >-
+  Swift Easy is a dual-ledger-based SWIFT extension designed for
+  enterprise-grade cross-border payments.
+showcaseUrl: https://ethglobal.com/showcase/swift-easy-v794z
+sourceCodeUrl: https://github.com/kunal528/swift-easy-monorepo
+liveDemoUrl: ''
+team:
+  - github: Maadhav
+    twitter: magik_mdv
+  - github: kunal528
+    twitter: 0xJKunal

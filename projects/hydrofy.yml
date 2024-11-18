@@ -1,12 +1,8 @@
-name: Hydrofy  # required
-tagline: View all nearby restrooms and water fountains, crowdedsourced, verified by AI, on chain. # optional
-showcaseUrl: https://ethglobal.com/showcase/hydrofy-pu8ra  # required
-sourceCodeUrl: https://github.com/WilliamUW/ethglobalbangkok # required
-liveDemoUrl: https://hydrofy.vercel.app/  # optional
-social: # optional
-  x: heywilliamwang
-  github: williamuw
-team: # optional
-  -
-    name: William Wang
-    github: williamuw
+name: Hydrofy
+tagline: Find the nearest restrooms, crowdedsourced, verified by AI, on chain.
+showcaseUrl: https://ethglobal.com/showcase/hydrofy-pu8ra
+sourceCodeUrl: https://github.com/WilliamUW/ETHGlobalBangkok
+liveDemoUrl: ''
+team:
+  - github: williamuw
+    twitter: heywilliamwang

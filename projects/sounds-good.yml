@@ -1,0 +1,13 @@
+name: Sounds Good
+tagline: >-
+  Listen-to-Earn Podcast Streaming Dapp with decentralized streaming. It lets
+  the user earn tokens for listneing each episode and also support the creators
+  with tips.
+showcaseUrl: https://ethglobal.com/showcase/sounds-good-8k7e6
+sourceCodeUrl: https://github.com/HemaDeviU/Sounds-Good
+liveDemoUrl: ''
+team:
+  - github: HemaDeviU
+    twitter: 0xHemaKarthick
+  - github: stepome
+    twitter: stefanopomelli

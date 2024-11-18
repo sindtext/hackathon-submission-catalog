@@ -1,0 +1,10 @@
+name: PetroETH Option DEX
+tagline: >-
+  EVM Gas Options Decentralized Exchange used for hedging Gas price spikes,
+  especially in protocols that require a lot of gas, such as ZK and FHE usage.
+showcaseUrl: https://ethglobal.com/showcase/petroeth-option-dex-vo05p
+sourceCodeUrl: https://github.com/jordan-public/gas-opt-dex
+liveDemoUrl: ''
+team:
+  - github: jordan-public
+    twitter: JordanSt3000

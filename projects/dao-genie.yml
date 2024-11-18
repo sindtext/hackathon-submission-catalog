@@ -1,0 +1,13 @@
+name: DAOGenie
+tagline: >-
+  DAO Genie turns community decisions into real-world actions with simple
+  governance and automated execution, building the bridge between digital
+  communities and physical impact.
+showcaseUrl: https://ethglobal.com/showcase/daogenie-nha62
+sourceCodeUrl: https://github.com/tkeith/daogenie
+liveDemoUrl: ''
+team:
+  - github: cozyss
+    twitter: shu_riley
+  - github: tkeith
+    twitter: tsrkeith

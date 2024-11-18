@@ -1,0 +1,13 @@
+name: almost free solidity
+tagline: >-
+  This project introduces a @free annotation that allows you to offload any
+  heavy computation offchain. It allows solidity developers to bring the cost of
+  compute-heavy functions almost to zero without sacrificing the DevEx.
+showcaseUrl: https://ethglobal.com/showcase/almost-free-solidity-f056d
+sourceCodeUrl: https://github.com/AntonD3/almost-free-solidity
+liveDemoUrl: ''
+team:
+  - github: dimazhornyk
+    twitter: <missing>
+  - github: AntonD3
+    twitter: <missing>

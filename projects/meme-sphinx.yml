@@ -1,0 +1,14 @@
+name: MemeSphinx
+tagline: >-
+  Our text-based game lets users solve MEME coin riddles from a Sphinx. Guess
+  the coin in 3 tries to win MEME coin rewards via smart contracts. Fun and
+  engaging, it’s designed to build active Web3 communities while exploring the
+  world of MEME coins.
+showcaseUrl: https://ethglobal.com/showcase/memesphinx-ep7k8
+sourceCodeUrl: https://github.com/apac-chainchanger/MemeSphinx
+liveDemoUrl: ''
+team:
+  - github: SeungWoonSong
+    twitter: Andrew_S0ng
+  - github: ft-jasong
+    twitter: jasongdev

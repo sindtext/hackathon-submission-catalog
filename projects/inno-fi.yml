@@ -1,0 +1,12 @@
+name: InnoFi
+tagline: >-
+  InnoFi is a cross-chain lending platform that lets users borrow against
+  collateral, including unpaid invoices. With on-chain credit scores, price
+  feeds, and rewards for timely repayment, InnoFi offers secure and efficient
+  lending.
+showcaseUrl: https://ethglobal.com/showcase/innofi-wgkvc
+sourceCodeUrl: https://github.com/sambitsargam/ethglobal-bangkok
+liveDemoUrl: ''
+team:
+  - github: sambitsargam
+    twitter: sambitsargam

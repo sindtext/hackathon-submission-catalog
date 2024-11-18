@@ -1,0 +1,16 @@
+name: ZK Credit Score
+tagline: >-
+  Zk Credit Score revolutionizes DeFi by enabling on-chain creditworthiness with
+  zero-knowledge proofs. It analyzes cross-chain wallet activity to verify token
+  balances privately, creating a secure, privacy-preserving credit score that
+  bridges traditional finance with Web3.
+showcaseUrl: https://ethglobal.com/showcase/zk-credit-score-pa7r4
+sourceCodeUrl: https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok
+liveDemoUrl: ''
+team:
+  - github: LovishB
+    twitter: <missing>
+  - github: bluntbrain
+    twitter: ishan_lakhwani
+  - github: ritiklakhwani
+    twitter: <missing>

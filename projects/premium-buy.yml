@@ -1,0 +1,16 @@
+name: PremiumBuy
+tagline: >-
+  PremiumBuy is a Payment, Checkout & Rewards all in one service, that serves
+  any in-store & on-chain payment needs.
+showcaseUrl: https://ethglobal.com/showcase/premiumbuy-dzt7g
+sourceCodeUrl: https://github.com/LLHOYH/PremiumBuy
+liveDemoUrl: ''
+team:
+  - github: yangyaczz
+    twitter: yyczMEV
+  - github: '978740431'
+    twitter: Dominiq30689713
+  - github: loophe
+    twitter: <missing>
+  - github: LLHOYH
+    twitter: li_longhao

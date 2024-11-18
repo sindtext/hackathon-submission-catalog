@@ -1,0 +1,14 @@
+name: Metaloot
+tagline: >-
+  Metaloot is a launchpad for games which brings on chain logic capability to
+  players and game devs. Metaloot connects games to Flow, so that in game items
+  can be stored on chain as NFT, allowing not only for player ownership, but
+  also to bring your items cross game.
+showcaseUrl: https://ethglobal.com/showcase/metaloot-x5810
+sourceCodeUrl: https://github.com/Complexia/metaloot-eth
+liveDemoUrl: ''
+team:
+  - github: vanha777
+    twitter: patricksaturnor
+  - github: Complexia
+    twitter: complexiasc

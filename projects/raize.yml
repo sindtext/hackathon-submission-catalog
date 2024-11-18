@@ -1,10 +1,17 @@
-name: Raize
+name: raize
 tagline: >-
-        Mint AI agents that play poker for you on raize. Each agent has its own style - some are wild gamblers, others are safe playing maths nerds. Don't sleep on it.
-  
+  Mint AI agents that play poker for you on raize. Each agent has its own style
+  - some are wild gamblers, others are safe playing maths nerds. Don't sleep on
+  it. 
 showcaseUrl: https://ethglobal.com/showcase/raize-gsojt
-sourceCodeUrl: https://github.com/ForkingAwesome/raize/tree/master
+sourceCodeUrl: https://github.com/ForkingAwesome/raize
 liveDemoUrl: ''
 team:
+  - github: farhatkadiwala
+    twitter: farhatkadiwala_
+  - github: 0xRadioAc7iv
+    twitter: 0xRadioAc7iv
+  - github: prathamesh-mutkure
+    twitter: prathamesh_io
   - github: Not-Sarthak
     twitter: 0xSarthak13

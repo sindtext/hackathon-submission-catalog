@@ -1,0 +1,18 @@
+name: ThanQ
+tagline: >-
+  ThanQ is an open-source, web-based, mobile-first asynchronous queue management
+  system for booth operators and users. It enables efficient queue management
+  and participation with secure wallet authentication and automated processes,
+  enhancing event operations and user experience.
+showcaseUrl: https://ethglobal.com/showcase/thanq-x3zuk
+sourceCodeUrl: https://github.com/smarthug/ThanQ-frontend
+liveDemoUrl: ''
+team:
+  - github: smarthug
+    twitter: theSmarthug
+  - github: byeonghunna
+    twitter: <missing>
+  - github: Planet-Us
+    twitter: LazyTan4
+  - github: chetanyb
+    twitter: bruhdwaj

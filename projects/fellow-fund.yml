@@ -1,0 +1,20 @@
+name: FellowFund
+tagline: >-
+  FellowFund is an on-chain fellowship platform using prediction markets to fund
+  individuals. Bettors stake on verifiable future outcomes, reducing evaluation
+  overhead and aligning incentives for outcome-driven, efficient ecosystem
+  growth.
+showcaseUrl: https://ethglobal.com/showcase/fellowfund-2hcau
+sourceCodeUrl: https://github.com/fellowfund/fellowfund-hack-mvp
+liveDemoUrl: ''
+team:
+  - github: thedanielmark
+    twitter: thedanielmark
+  - github: mialbu
+    twitter: mialbucher
+  - github: gsmachado
+    twitter: gsmachado
+  - github: fabianferno
+    twitter: fabianferno
+  - github: LeoFranklin015
+    twitter: LeoFranklin_15

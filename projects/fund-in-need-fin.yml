@@ -1,0 +1,20 @@
+name: Fund In Need (FIN)
+tagline: >-
+  FIN (Fund In Need) give a solution for enhancing creditworthiness in
+  decentralized finance (DeFi) by tokenizing users' on-chain credit scores into
+  ERC-1155 tokens. In one line, we allow people to borrow money, by
+  collaterizing their social credit. 
+showcaseUrl: https://ethglobal.com/showcase/fund-in-need-fin-kqioq
+sourceCodeUrl: https://github.com/Funds-In-Need/Fund-In-Need
+liveDemoUrl: ''
+team:
+  - github: noobstar3310
+    twitter: eggyway
+  - github: gohweiqi
+    twitter: WeiQi
+  - github: Ckayz
+    twitter: LCKian88
+  - github: shuenrui
+    twitter: shuenrui
+  - github: raykon1221
+    twitter: xinrou_1221

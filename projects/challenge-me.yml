@@ -1,0 +1,16 @@
+name: ChallengeMe
+tagline: >-
+  ChallengeMe is a user-friendly, Web3-integrated app for tight-knit groups
+  where friends bet “CAN” or “CAN’T” on personal challenges, fostering personal
+  growth. Gamified stakes, 🎲 Random Verifier resolutions, and decentralization
+  ensure trust, transparency, and fun. 💪✨
+showcaseUrl: https://ethglobal.com/showcase/challengeme-pv7m5
+sourceCodeUrl: https://github.com/UniqSoftTech/challenge-me
+liveDemoUrl: ''
+team:
+  - github: ganjiguur
+    twitter: jiguur_n
+  - github: Jay-1110
+    twitter: <missing>
+  - github: batgerelt
+    twitter: batgereltb

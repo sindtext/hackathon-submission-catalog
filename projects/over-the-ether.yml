@@ -1,0 +1,17 @@
+name: OverTheEther
+tagline: >-
+  Tap to pay securely on-chain, wirelessly, and offline. Experience an Apple
+  Pay-like convenience, leveraging account abstraction capabilities and
+  innovative wireless communication technologies.
+showcaseUrl: https://ethglobal.com/showcase/overtheether-cqxse
+sourceCodeUrl: https://github.com/omurovec/over-the-ether
+liveDemoUrl: ''
+team:
+  - github: gosuto-inzasheru
+    twitter: onchain_xyz
+  - github: simonedamico
+    twitter: damicosimone
+  - github: omurovec
+    twitter: omurovec
+  - github: keinberger
+    twitter: phil10013

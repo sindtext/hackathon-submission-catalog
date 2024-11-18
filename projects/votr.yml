@@ -1,0 +1,18 @@
+name: Votr
+tagline: >-
+  Votr is a DAO tooling platform designed to boost participation in
+  decentralized governance. By simplifying voting, rewarding engagement, and
+  lowering barriers to entry, Votr empowers every member to contribute to
+  decision-making and shape the future of their DAO.
+showcaseUrl: https://ethglobal.com/showcase/votr-6kz1o
+sourceCodeUrl: https://github.com/lamtrinh259/ETHGlobal_Bangkok_2024
+liveDemoUrl: ''
+team:
+  - github: lamtrinh259
+    twitter: LamWeb3
+  - github: exyzee
+    twitter: exwhyzeth
+  - github: shadmau
+    twitter: <missing>
+  - github: itsadel
+    twitter: MasalaCaptain

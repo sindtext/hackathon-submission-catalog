@@ -1,0 +1,14 @@
+name: Community Tag
+tagline: >-
+  Community Tag is a Telegram miniapp that connects user identities, wallets,
+  and tags to manage relationships with communities. It supports multi-chain
+  wallets, privacy-focused verifications, and gamified interactions within
+  decentralized ecosystems.
+showcaseUrl: https://ethglobal.com/showcase/community-tag-i7rjx
+sourceCodeUrl: https://github.com/SpokieKid/ethglobalbkk
+liveDemoUrl: ''
+team:
+  - github: spokiekid
+    twitter: arvinatwild
+  - github: 0xtwone
+    twitter: tokyo10086

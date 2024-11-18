@@ -1,0 +1,13 @@
+name: Jiggly
+tagline: >-
+  Jiggly: Your AI-powered blockchain companion that makes cross-chain operations
+  feel like chatting with a friend. Seamlessly create token links, transfer
+  assets, and explore connections across networks using natural language.
+showcaseUrl: https://ethglobal.com/showcase/jiggly-6joy2
+sourceCodeUrl: https://github.com/JuinSoft/Jiggly
+liveDemoUrl: ''
+team:
+  - github: jintukumardas
+    twitter: jintuisbusy
+  - github: S0naliThakur
+    twitter: thesothakur

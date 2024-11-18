@@ -1,0 +1,14 @@
+name: DegenAgent
+tagline: >-
+  The DegenAgent is an  AI agent that is designed to analyse the meme coin
+  market, utilizing various data sources such as market sentiment, social media
+  trends, and technical indicators. The agent will then automatically execute
+  buy or sell orders on a blockchain-based exchange 
+showcaseUrl: https://ethglobal.com/showcase/degenagent-zqmdu
+sourceCodeUrl: https://github.com/vibenedict/degenAgent
+liveDemoUrl: ''
+team:
+  - github: vibenedict
+    twitter: maxvfresh001
+  - github: princeibs
+    twitter: prince_ibs
