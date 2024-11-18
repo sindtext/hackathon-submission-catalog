@@ -1,0 +1,12 @@
+name: TrustMe
+tagline: Social reputation protocol built with Flow and Bitcoin
+showcaseUrl: https://ethglobal.com/showcase/trustme-god3u
+sourceCodeUrl: https://github.com/UniqSoftTech/trust-me
+liveDemoUrl: https://trust-me-eth.vercel.app/
+social: # optional
+  x: handle
+  github: name
+team: # optional
+  -
+    name: Member 1
+    github: username1
