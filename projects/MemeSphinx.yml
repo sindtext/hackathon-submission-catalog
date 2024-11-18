@@ -1,0 +1,10 @@
+name: MemeSphinx # required
+tagline: An innovative text-based game designed to captivate Web3 enthusiasts.
+
+showcaseUrl: https://ethglobal.com/showcase/MemeSphinx
+sourceCodeUrl: https://github.com/apac-chainchanger/MemeSphinx
+team:
+  - name: Andrew Song
+    github: SeungWoonSong
+  - name: Jay Song
+    github: ft-jasong
