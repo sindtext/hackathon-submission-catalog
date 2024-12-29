@@ -1,0 +1,12 @@
+name: Reign Alter World  # required
+tagline: Cross Platform Survival MMORPG with new gameplay and feature and revolutionary "inGame DeFi" # optional
+showcaseUrl: https://www.hackquest.io/en/hackathon/projects/Flow-Asia-Hackathon-Reign-Alter-World  # required
+sourceCodeUrl: https://github.com/sindtext/reignalterworld # required
+liveDemoUrl: https://play.google.com/store/apps/details?id=com.jsi.raw  # optional
+social: # optional
+  x: sindtext
+  github: sindtext
+team: # optional
+  -
+    name: Member 1
+    github: username1
